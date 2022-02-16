@@ -3,7 +3,21 @@ module.exports = {
   // https://tailwindcss.com/docs/just-in-time-mode
   // mode: "jit",
   theme: {
-    extend: {},
+    extend: {    
+        fontFamily: {
+        futura: ["Futura"]
+      },
+      colors: {
+        arctic: "#010C30",
+        cyanic: "#0047B0",
+        frost: "#CFDAFF",
+        arcticLight: "#3F4B71",
+        ice: "#07559D",
+        coal: "#192538",
+        grass: "#00BBB0",
+        petal: "#CD0094"
+      },
+    },
   },
   variants: {},
   plugins: [],

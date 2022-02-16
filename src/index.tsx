@@ -1,10 +1,34 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './styles/index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./styles/index.css";
+import App from "./App";
+import * as serviceWorker from "./serviceWorker";
+import {
+  ApolloClient,
+  InMemoryCache,
+  ApolloProvider,
+  useQuery,
+  gql,
+  useMutation,
+} from "@apollo/client";
+/* polyfills.js */
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import "react-app-polyfill/ie11";
+import "core-js/features/array/find";
+import "core-js/features/array/includes";
+import "core-js/features/number/is-nan";
+
+const client = new ApolloClient({
+  uri: "http://localhost:4321/graphql",
+  cache: new InMemoryCache(),
+});
+
+ReactDOM.render(
+  <ApolloProvider client={client}>
+    <App />
+  </ApolloProvider>,
+  document.getElementById("root"),
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
