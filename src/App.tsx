@@ -52,6 +52,13 @@ function App() {
         }
     }, [])
 
+    let LANG: string
+    if (user === 'Ciaran') {
+        LANG = 'PT'
+    } else {
+        LANG = 'IT'
+    }
+
     // Generates a translation for the latest selection
     useEffect(() => {
         const translate = async () => {
@@ -65,7 +72,7 @@ function App() {
                             auth_key: '999303fb-58b4-9bc2-1893-3d8c557d683f:fx',
                             text: selection.word,
                             target_lang: 'EN',
-                            source_lang: LANGUAGE,
+                            source_lang: LANG,
                         },
                     }
                 )
