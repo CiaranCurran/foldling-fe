@@ -3,1331 +3,4271 @@
   {
    "begin": "0.000",
    "children": [],
-   "end": "30.920",
+   "end": "2.840",
    "id": "f000001",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30d7\u30ea\u30d9\u30c3\u30c8\u901a\u308a\u56db\u756a\u5730\u306e\u4f4f\u4eba\u30c0\u30fc\u30ba\u30ea\u30fc\u592b\u59bb\u306f\u3001\u300c\u304a\u304b\u3052\u3055\u307e\u3067\u3001\u79c1\u3069\u3082\u306f\u3069\u3053\u304b\u3089\u898b\u3066\u3082\u307e\u3068\u3082\u306a\u4eba\u9593\u3067\u3059\u300d\u3068\u3044\u3046\u306e\u304c\u81ea\u6162\u3060\u3063\u305f\u3002\u4e0d\u601d\u8b70\u3068\u304b\u795e\u79d8\u3068\u304b\u305d\u3093\u306a\u975e\u5e38\u8b58\u306f\u307e\u308b\u3063\u304d\u308a\u8a8d\u3081\u306a\u3044\u4eba\u7a2e\u3067\u3001\u307e\u304b\u4e0d\u601d\u8b70\u306a\u51fa\u6765\u4e8b\u304c\u5f7c\u3089\u306e\u5468\u8fba\u3067\u8d77\u3053\u308b\u306a\u3093\u3066\u3001\u3068\u3046\u3066\u3044\u8003\u3048\u3089\u308c\u306a\u304b\u3063\u305f\u3002"
+    "Una riunione inaspettata"
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "2.840",
    "children": [],
-   "end": "30.920",
+   "end": "2.840",
    "id": "f000002",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "2.840",
    "children": [],
-   "end": "30.920",
+   "end": "4.480",
    "id": "f000003",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "4.480",
    "children": [],
-   "end": "30.920",
+   "end": "4.480",
    "id": "f000004",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "4.480",
    "children": [],
-   "end": "30.920",
+   "end": "22.440",
    "id": "f000005",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    ""
+    "In una caverna sotto terra viveva uno Hobbit. Non era una caverna brutta, sporca, umida, piena di resti di vermi e di trasudo fetido, e neanche una caverna arida, spoglia, sabbiosa, con dentro niente per sedersi o da mangiare: era una caverna hobbit, cio\u00e8 comodissima."
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "22.440",
    "children": [],
-   "end": "30.920",
+   "end": "23.920",
    "id": "f000006",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "30.920",
+   "begin": "23.920",
    "children": [],
-   "end": "72.440",
+   "end": "101.440",
    "id": "f000007",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3001\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u3092\u88fd\u9020\u3057\u3066\u3044\u308b\u30b0\u30e9\u30cb\u30f3\u30b0\u30ba\u793e\u306e\u793e\u9577\u3060\u3002\u305a\u3093\u3050\u308a\u3068\u8089\u3065\u304d\u304c\u3088\u3044\u4f53\u578b\u306e\u305b\u3044\u3067\u3001\u9996\u304c\u307b\u3068\u3093\u3069\u306a\u3044\u3002\u305d\u306e\u304b\u308f\u308a\u5de8\u5927\u306a\u53e3\u9aed\u304c\u76ee\u7acb\u3063\u3066\u3044\u305f\u3002\u5965\u3055\u3093\u306e\u65b9\u306f\u3084\u305b\u3066\u3001\u91d1\u9aea\u3067\u3001\u306a\u3093\u3068\u9996\u306e\u9577\u3055\u304c\u666e\u901a\u306e\u4eba\u306e\u4e8c\u500d\u306f\u3042\u308b\u3002\u57a3\u6839\u8d8a\u3057\u306b\u3054\u8fd1\u6240\u306e\u69d8\u5b50\u3092\u8a6e\u7d22\u3059\u308b\u306e\u304c\u8da3\u5473\u3060\u3063\u305f\u306e\u3067\u3001\u9db4\u306e\u3088\u3046\u306a\u9996\u306f\u5b9f\u306b\u4fbf\u5229\u3060\u3063\u305f\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u592b\u59bb\u306b\u306f\u30c0\u30c9\u30ea\u30fc\u3068\u3044\u3046\u7537\u306e\u5b50\u304c\u3044\u305f\u3002\u3069\u3053\u3092\u63a2\u3057\u305f\u3063\u3066\u3053\u3093\u306a\u306b\u3067\u304d\u306e\u3044\u3044\u5b50\u306f\u3044\u3084\u3057\u306a\u3044\u3001\u3068\u3044\u3046\u306e\u304c\u4e8c\u4eba\u306e\u89aa\u30d0\u30ab\u306e\u610f\u898b\u3060\u3063\u305f\u3002"
+    "Aveva una porta perfettamente rotonda come un obl\u00f2, dipinta di verde, con un lucido pomello d'ottone proprio nel mezzo. La porta si apriva su un ingresso a forma di tubo, come un tunnel: un tunnel molto confortevole, senza fumo, con pareti foderate di legno e pavimento di piastrelle ricoperto di tappeti, fornito di sedie lucidate, e di un gran numero di attaccapanni per cappelli e cappotti: lo Hobbit amava molto ricevere visite. Il tunnel si snodava, inoltrandosi profondamente, anche se non in linea retta, nel fianco della collina (o meglio la Collina, come era chiamata da tutta la gente per molte miglia all'intorno) e molte porticine rotonde si aprivano su di esso, prima da una parte e poi dall'altra. Niente piani superiori per lo Hobbit: le camere da letto, i bagni, le cantine, le dispense (molto numerose), i guardaroba (c'erano camere intere destinate ai vestiti), le cucine, le sale da pranzo, erano tutte sullo stesso piano, anzi sullo stesso corridoio. Le camere migliori erano tutte sul lato sinistro (entrando), perch\u00e9 erano le sole ad avere finestre: finestre rotonde profondamente incassate che davano sul giardino e sui campi dietro di esso, lentamente degradanti verso il fiume."
    ]
   },
   {
-   "begin": "72.440",
+   "begin": "101.440",
    "children": [],
-   "end": "73.920",
+   "end": "101.440",
    "id": "f000008",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "73.920",
+   "begin": "101.440",
    "children": [],
-   "end": "85.720",
+   "end": "145.800",
    "id": "f000009",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u305d\u3093\u306a\u7d75\u306b\u63cf\u3044\u305f\u3088\u3046\u306b\u6e80\u3061\u8db3\u308a\u305f\u30c0\u30fc\u30ba\u30ea\u30fc\u5bb6\u306b\u3082\u3001\u305f\u3063\u305f\u4e00\u3064\u79d8\u5bc6\u304c\u3042\u3063\u305f\u3002\u306a\u306b\u3088\u308a\u6016\u3044\u306e\u306f\u3001\u8ab0\u304b\u306b\u305d\u306e\u79d8\u5bc6\u3092\u55c5\u304e\u3064\u3051\u3089\u308c\u308b\u3053\u3068\u3060\u3063\u305f\u3002"
+    "Questo Hobbit era uno Hobbit veramente benestante, e il suo nome era Baggins. I Baggins avevano vissuto nella zona attorno alla Collina da tempi immemorabili, e la gente li considerava molto rispettabili, non solo perch\u00e9 in generale erano molto ricchi, ma anche perch\u00e9 non avevano mai avuto alcuna avventura n\u00e9 fatto niente di imprevedibile: si poteva presupporre l'opinione di un Baggins su un problema qualsiasi senza che ci fosse bisogno di chiedergliela. Questa \u00e8 la storia di come un Baggins ebbe un'avventura e si trov\u00f2 a fare e dire cose del tutto imprevedibili. Pu\u00f2 anche aver perso il rispetto del vicinato, ma in cambio ci guadagn\u00f2... bene, vedrete se alla fine ci guadagn\u00f2 qualche cosa."
    ]
   },
   {
-   "begin": "85.720",
+   "begin": "145.800",
    "children": [],
-   "end": "87.360",
+   "end": "145.800",
    "id": "f000010",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "87.360",
+   "begin": "145.800",
    "children": [],
-   "end": "92.120",
+   "end": "262.760",
    "id": "f000011",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u3042\u306e\u30dd\u30c3\u30bf\u30fc\u4e00\u5bb6\u306e\u3053\u3068\u304c\u8ab0\u304b\u306b\u77e5\u3089\u308c\u3066\u3057\u307e\u3063\u305f\u3089\u4e00\u5dfb\u306e\u7d42\u308f\u308a\u3060\u3002"
+    "La madre di questo nostro Hobbit, cos\u00ec diverso dagli altri - ma che cos'\u00e8 uno Hobbit? Credo che al giorno d'oggi gli Hobbit abbiano bisogno di essere in qualche modo descritti, dal momento che sono diventati rari e timorosi della Gente Grossa, come ci chiamano. Sono (o erano) gente piccola, alti all'incirca la met\u00e0 di noi, e pi\u00f9 minuti dei Nani barbuti. Gli Hobbit non hanno barba. Del resto, poco o niente di magico c'\u00e8 in loro tranne il modo comunissimo in cui spariscono silenziosamente e velocemente quando gente grossa e stupida come me e voi capita l\u00ec attorno, facendo il rumore di un elefante che essi possono sentire a un miglio di distanza. Tendono a metter su un po' di pancia; vestono di colori vivaci (soprattutto di verde e di giallo); non portano scarpe, perch\u00e9 i loro piedi sviluppano piante naturalmente dure come il cuoio e un vello fitto, caldo e scuro come quello che hanno in testa (che \u00e8 riccioluta); hanno lunghe, abili dita scure, facce gioviali, e ridono con risa profonde e pastose (specialmente dopo il pranzo, che consumano due volte al giorno, se ci riescono). Adesso ne sapete abbastanza per andare avanti. Come dicevo, la madre di questo Hobbit - di Bilbo Baggins, cio\u00e8 - era la famosa Belladonna Tuc, una delle tre considerevoli figlie del Vecchio Tuc, capo degli Hobbit che vivevano di l\u00e0 dall'Acqua, cio\u00e8 oltre il piccolo fiume che scorreva ai piedi della Collina. Si diceva spesso (in altre famiglie) che molto tempo addietro uno degli antenati dei Tuc doveva avere preso in moglie una Fata. Naturalmente questo era assurdo, ma certo v'era ancora qualcosa di non tipicamente hobbit in loro, e di tanto in tanto qualche membro del clan Tuc partiva e aveva avventure. Spariva discretamente, e la famiglia metteva tutto a tacere; ma rimaneva il fatto che i Tuc non erano cos\u00ec rispettabili come i Baggins, pur essendo indiscutibilmente pi\u00f9 ricchi."
    ]
   },
   {
-   "begin": "92.120",
+   "begin": "262.760",
    "children": [],
-   "end": "93.400",
+   "end": "262.760",
    "id": "f000012",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "93.400",
+   "begin": "262.760",
    "children": [],
-   "end": "110.560",
+   "end": "313.720",
    "id": "f000013",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30dd\u30c3\u30bf\u30fc\u592b\u4eba\u306f\u30c0\u30fc\u30ba\u30ea\u30fc\u592b\u4eba\u306e\u5b9f\u306e\u59b9\u3060\u304c\u3001\u4e8c\u4eba\u306f\u3053\u3053\u6570\u5e74\u4e00\u5ea6\u3082\u4f1a\u3063\u3066\u306f\u3044\u306a\u304b\u3063\u305f\u3002\u305d\u308c\u3069\u3053\u308d\u304b\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u592b\u4eba\u306f\u59b9\u306a\u3069\u3044\u306a\u3044\u3068\u3044\u3046\u3075\u308a\u3092\u3057\u3066\u3044\u305f\u3002\u306a\u306b\u3057\u308d\u3001\u59b9\u3082\u305d\u306e\u308d\u304f\u3067\u306a\u3057\u306e\u592b\u3082\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u5bb6\u306e\u5bb6\u98a8\u3068\u306f\u307e\u308b\u3063\u304d\u308a\u6b63\u53cd\u5bfe\u3060\u3063\u305f\u304b\u3089\u3060\u3002"
+    "Non che Belladonna Tuc avesse mai avuto una qualsiasi avventura dopo aver sposato Bungo Baggins. Bungo, cio\u00e8 il padre di Bilbo, costru\u00ec per lei (e in parte col denaro di lei) la pi\u00f9 lussuosa hobbit-casa che si potesse trovare sotto la Collina, o sopra la Collina o di l\u00e0 dall'Acqua, e rimasero l\u00ec fino alla fine dei loro giorni. Tuttavia, \u00e8 probabile che Bilbo, l'unico figlio di Belladonna, sebbene fosse e si comportasse esattamente come una seconda edizione del suo solido e tranquillo padre, avesse ereditato dalla parte dei Tuc qualcosa di strano nella sua natura, qualcosa che aspettava solo l'occasione per venire alla luce. L'occasione arriv\u00f2 solo dopo che Bilbo fu cresciuto, quando aveva circa cinquant'anni, e viveva nella bella casa di suo padre che vi ho appena descritto: quando cio\u00e8 si era \u00absistemato\u00bb in apparenza per sempre."
    ]
   },
   {
-   "begin": "110.560",
+   "begin": "313.720",
    "children": [],
-   "end": "110.560",
+   "end": "315.440",
    "id": "f000014",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "110.560",
+   "begin": "315.440",
    "children": [],
-   "end": "117.520",
+   "end": "369.640",
    "id": "f000015",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u30dd\u30c3\u30bf\u30fc\u4e00\u5bb6\u304c\u4e0d\u610f\u306b\u3053\u306e\u3042\u305f\u308a\u306b\u73fe\u308c\u305f\u3089\u3001\u3054\u8fd1\u6240\u306e\u4eba\u305f\u3061\u304c\u306a\u3093\u3068\u8a00\u3046\u304b\u3001\u8003\u3048\u305f\u3060\u3051\u3067\u3082\u8eab\u306e\u6bdb\u304c\u3088\u3060\u3064\u3002"
+    "Per un qualche curioso caso, un mattino di molto tempo fa, nella quiete del mondo, quando c'era meno rumore e pi\u00f9 verde, e gli Hobbit erano ancora numerosi e prosperi, e Bilbo Baggins stava sulla porta dopo colazione fumando un'enorme pipa di legno che gli arrivava fin quasi alle pelose dita dei piedi (accuratamente spazzolate), ecco arrivare Gandalf. Gandalf! Se di lui aveste sentito solo un quarto di quello che ho sentito io, e anch'io ho sentito ben poco di tutto quello che c'\u00e8 da sentire, vi aspettereste subito una qualche storia fuor del comune. Storie e avventure spuntavano fuori da ogni parte, dovunque egli andasse, e del tipo pi\u00f9 straordinario. Non era pi\u00f9 sceso sotto la Collina da un sacco di tempo, per l'esattezza da quando era morto il suo amico, il Vecchio Tuc, e gli Hobbit avevano quasi dimenticato il suo aspetto. Era stato via oltre la Collina e di l\u00e0 dall'Acqua per certi suoi affari sin da quando erano tutti piccoli Hobbit."
    ]
   },
   {
-   "begin": "117.520",
+   "begin": "369.640",
    "children": [],
-   "end": "117.560",
+   "end": "371.160",
    "id": "f000016",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "117.560",
+   "begin": "371.160",
    "children": [],
-   "end": "121.440",
+   "end": "386.520",
    "id": "f000017",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30dd\u30c3\u30bf\u30fc\u5bb6\u306b\u3082\u5c0f\u3055\u306a\u7537\u306e\u5b50\u304c\u3044\u308b\u3053\u3068\u3092\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u592b\u59bb\u306f\u77e5\u3063\u3066\u306f\u3044\u305f\u304c\u3001\u305f\u3060\u306e\u4e00\u5ea6\u3082\u4f1a\u3063\u305f\u3053\u3068\u304c\u306a\u3044\u3002"
+    "Tutto quello che l'ignaro Bilbo vide quel mattino era un vecchio con un bastone. Aveva un alto cappello blu a punta, un lungo mantello grigio, una sciarpa argentea sulla quale la lunga barba bianca ricadeva fin sotto la vita, e immensi stivali neri."
    ]
   },
   {
-   "begin": "121.440",
+   "begin": "386.520",
    "children": [],
-   "end": "121.480",
+   "end": "386.520",
    "id": "f000018",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "121.480",
+   "begin": "386.520",
    "children": [],
-   "end": "122.240",
+   "end": "399.000",
    "id": "f000019",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u305d\u3093\u306a\u5b50\u3068\u3001\u3046\u3061\u306e\u30c0\u30c9\u30ea\u30fc\u304c\u304b\u304b\u308f\u308a\u5408\u3044\u306b\u306a\u308b\u306a\u3093\u3066\u2026\u2026\u3002"
+    "\u00abBuon giorno!\u00bb disse Bilbo; e lo pensava veramente. Il sole brillava e l'erba era verdissima. Ma Gandalf lo guard\u00f2 da sotto le lunghe sopracciglia irsute ancora pi\u00f9 sporgenti della tesa del suo cappello."
    ]
   },
   {
-   "begin": "122.240",
+   "begin": "399.000",
    "children": [],
-   "end": "122.240",
+   "end": "400.680",
    "id": "f000020",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "122.240",
+   "begin": "400.680",
    "children": [],
-   "end": "125.680",
+   "end": "410.800",
    "id": "f000021",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u305d\u308c\u3082\u30dd\u30c3\u30bf\u30fc\u4e00\u5bb6\u3092\u9060\u3056\u3051\u3066\u3044\u308b\u7406\u7531\u306e\u4e00\u3064\u3060\u3063\u305f\u3002"
+    "\u00abChe vuoi dire?\u00bb disse. \u00abMi auguri un buon giorno o vuoi dire che \u00e8 un buon giorno che mi piaccia o no; o che ti senti buono, quest'oggi; o che \u00e8 un giorno in cui si deve essere buoni?\u00bb"
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "410.800",
    "children": [],
-   "end": "125.680",
+   "end": "412.200",
    "id": "f000022",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "412.200",
    "children": [],
-   "end": "125.680",
+   "end": "434.840",
    "id": "f000023",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    ""
+    "\u00abTutto quanto\u00bb disse Bilbo. \u00ab\u00c8 un bellissimo giorno per una pipata all'aperto, per di pi\u00f9. Se avete una pipa con voi, sedetevi e prendete un po' del mio tabacco! Non c'\u00e8 fretta, abbiamo tutto il giorno davanti a noi!\u00bb E Bilbo si sedette su un sedile accanto alla porta, incroci\u00f2 le gambe e fece un bell'anello grigio di fumo che sal\u00ec in aria senza rompersi e si libr\u00f2 sopra la Collina."
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "434.840",
    "children": [],
-   "end": "125.680",
+   "end": "434.840",
    "id": "f000024",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "434.840",
    "children": [],
-   "end": "125.680",
+   "end": "434.840",
    "id": "f000025",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "434.840",
    "children": [],
-   "end": "125.680",
+   "end": "434.840",
    "id": "f000026",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "125.680",
+   "begin": "434.840",
    "children": [],
-   "end": "154.840",
+   "end": "434.840",
    "id": "f000027",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u3055\u3066\u3001\u3042\u308b\u706b\u66dc\u65e5\u306e\u671d\u306e\u3053\u3068\u3060\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u4e00\u5bb6\u304c\u76ee\u3092\u899a\u307e\u3059\u3068\u3001\u5916\u306f\u3069\u3093\u3088\u308a\u3068\u3057\u305f\u7070\u8272\u306e\u7a7a\u3060\u3063\u305f\u3002\u7269\u8a9e\u306f\u3053\u3053\u304b\u3089\u59cb\u307e\u308b\u3002\u307e\u304b\u4e0d\u601d\u8b70\u306a\u3053\u3068\u304c\u307e\u3082\u306a\u304f\u30a4\u30ae\u30ea\u30b9\u4e2d\u3067\u8d77\u3053\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u306a\u3093\u3066\u3001\u305d\u3093\u306a\u6c17\u914d\u306f\u66c7\u308a\u7a7a\u306e\u3069\u3053\u306b\u3082\u306a\u304b\u3063\u305f\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u9f3b\u6b4c\u307e\u3058\u308a\u3067\u3001\u4ed5\u4e8b\u7528\u306e\u601d\u3044\u3063\u304d\u308a\u3042\u308a\u3075\u308c\u305f\u67c4\u306e\u30cd\u30af\u30bf\u30a4\u3092\u9078\u3093\u3060\u3002\u5965\u3055\u3093\u306e\u65b9\u306f\u5927\u58f0\u3067\u6ce3\u304d\u308f\u3081\u3044\u3066\u3044\u308b\u30c0\u30c9\u30ea\u30fc\u574a\u3084\u3092\u3084\u3063\u3068\u3053\u3055\u30d9\u30d3\u30fc\u30c1\u30a7\u30a2\u306b\u5ea7\u3089\u305b\u3001\u5b09\u3005\u3068\u3057\u3066\u3054\u8fd1\u6240\u306e\u5642\u8a71\u3092\u59cb\u3081\u305f\u3002"
+    ""
    ]
   },
   {
-   "begin": "154.840",
+   "begin": "434.840",
    "children": [],
-   "end": "154.840",
+   "end": "436.200",
    "id": "f000028",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "154.840",
+   "begin": "436.200",
    "children": [],
-   "end": "178.680",
+   "end": "446.360",
    "id": "f000029",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u7a93\u306e\u5916\u3092\u3001\u5927\u304d\u306a\u3075\u304f\u308d\u3046\u304c\u30d0\u30bf\u30d0\u30bf\u3068\u98db\u3073\u53bb\u3063\u3066\u3044\u3063\u305f\u304c\u3001\u4e8c\u4eba\u3068\u3082\u6c17\u304c\u3064\u304b\u306a\u304b\u3063\u305f\u3002\u516b\u6642\u534a\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u9784\u3092\u6301\u3061\u3001\u5965\u3055\u3093\u306e\u982c\u306b\u3061\u3087\u3053\u3063\u3068\u30ad\u30b9\u3057\u3066\u3001\u305d\u308c\u304b\u3089\u30c0\u30c9\u30ea\u30fc\u574a\u3084\u306b\u3082\u30d0\u30a4\u30d0\u30a4\u306e\u30ad\u30b9\u3092\u3057\u3088\u3046\u3068\u3057\u305f\u304c\u3001\u3057\u305d\u3053\u306a\u3063\u305f\u3002\u574a\u3084\u304c\u7647\u766a\u3092\u8d77\u3053\u3057\u3066\u3001\u30b3\u30fc\u30f3\u30d5\u30ec\u30fc\u30af\u3092\u76bf\u3054\u3068\u58c1\u306b\u6295\u3052\u3064\u3051\u3066\u3044\u308b\u6700\u4e2d\u3060\u3063\u305f\u304b\u3089\u3060\u3002\u300c\u308f\u3093\u3071\u304f\u574a\u4e3b\u3081\u300d\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u6e80\u8db3\u3052\u306b\u7b11\u3044\u306a\u304c\u3089\u5bb6\u3092\u51fa\u3066\u3001\u81ea\u5bb6\u7528\u8eca\u306b\u4e57\u308a\u8fbc\u307f\u3001\u56db\u756a\u5730\u306e\u8def\u5730\u3092\u30d0\u30c3\u30af\u3067\u51fa\u3066\u3044\u3063\u305f\u3002\u5e83\u3044\u901a\u308a\u306b\u51fa\u308b\u524d\u306e\u89d2\u306e\u3068\u3053\u308d\u3067\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3001\u521d\u3081\u3066\u4f55\u304b\u304a\u304b\u3057\u3044\u305e\u3068\u601d\u3063\u305f\u3002"
+    "\u00abGraziosissimo!\u00bb disse Gandalf. \u00abMa stamattina non ho tempo di fare anelli di fumo. Cerco qualcuno con cui condividere un'avventura che sto organizzando ed \u00e8 molto difficile trovarlo.\u00bb"
    ]
   },
   {
-   "begin": "178.680",
+   "begin": "446.360",
    "children": [],
-   "end": "178.680",
+   "end": "446.360",
    "id": "f000030",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "178.680",
+   "begin": "446.360",
    "children": [],
-   "end": "217.400",
+   "end": "488.640",
    "id": "f000031",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u306a\u3093\u3068\u732b\u304c\u5730\u56f3\u3092\u898b\u3066\u3044\u308b\u2015\u2015\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u4e00\u77ac\u3001\u76ee\u3092\u7591\u3063\u305f\u3002\u3082\u3046\u4e00\u5ea6\u3088\u304f\u898b\u3088\u3046\u3068\u6025\u3044\u3067\u632f\u308a\u8fd4\u308b\u3068\u3001\u305f\u3057\u304b\u306b\u30d7\u30ea\u30d9\u30c3\u30c8\u901a\u308a\u306e\u89d2\u306b\u30c8\u30e9\u732b\u304c\u4e00\u5339\u7acb\u3061\u6b62\u307e\u3063\u3066\u3044\u305f\u3002\u3057\u304b\u3057\u3001\u5730\u56f3\u306e\u65b9\u306f\u898b\u3048\u306a\u304b\u3063\u305f\u3002\u3070\u304b\u306a\u3001\u3044\u3063\u305f\u3044\u4f55\u3092\u8003\u3048\u3066\u3044\u308b\u3093\u3060\u3002\u304d\u3063\u3068\u5149\u306e\u3044\u305f\u305a\u3089\u3060\u3063\u305f\u306b\u9055\u3044\u306a\u3044\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u77ac\u304d\u3092\u3057\u3066\u3001\u3082\u3046\u4e00\u5ea6\u732b\u3092\u3088\u304f\u898b\u306a\u304a\u3057\u305f\u3002\u732b\u306f\u898b\u3064\u3081\u8fd4\u3057\u305f\u3002\u89d2\u3092\u66f2\u304c\u308a\u3001\u5e83\u3044\u901a\u308a\u306b\u51fa\u305f\u6642\u3001\u30d0\u30c3\u30af\u30df\u30e9\u30fc\u306b\u6620\u3063\u3066\u3044\u308b\u732b\u304c\u898b\u3048\u305f\u3002\u306a\u3093\u3068\u3001\u4eca\u5ea6\u306f\u300c\u30d7\u30ea\u30d9\u30c3\u30c8\u901a\u308a\u300d\u3068\u66f8\u304b\u308c\u305f\u6a19\u8b58\u3092\u8aad\u3093\u3067\u3044\u308b\u3002\u2015\u2015\u3044\u3084\u3001\u300c\u898b\u3066\u300d\u3044\u308b\u3060\u3051\u3060\u3002\u732b\u304c\u5730\u56f3\u3084\u3089\u6a19\u8b58\u3084\u3089\u3092\u8aad\u3081\u308b\u306f\u305a\u304c\u306a\u3044\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u4f53\u3092\u30d6\u30eb\u30c3\u3068\u632f\u3063\u3066\u6c17\u3092\u53d6\u308a\u306a\u304a\u3057\u3001\u732b\u306e\u3053\u3068\u3092\u982d\u306e\u4e2d\u304b\u3089\u632f\u308a\u6255\u3063\u305f\u3002\u8857\u306b\u5411\u304b\u3063\u3066\u8eca\u3092\u8d70\u3089\u305b\u3066\u3044\u308b\u3046\u3061\u306b\u3001\u5f7c\u306e\u982d\u306f\u3001\u305d\u306e\u65e5\u306b\u53d6\u308a\u305f\u3044\u3068\u601d\u3063\u3066\u3044\u308b\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u306e\u5927\u53e3\u6ce8\u6587\u306e\u3053\u3068\u3067\u3044\u3063\u3071\u3044\u306b\u306a\u3063\u305f\u3002"
+    "\u00abLo credo bene, da queste parti! Siamo gente tranquilla e alla buona e non sappiamo che farcene delle avventure. Brutte fastidiose scomode cose! Fanno far tardi a cena! Non riesco a capire cosa ci si trovi di bello!\u00bb disse il nostro signor Baggins, e infilati i pollici sotto le bretelle fece un anello di fumo ancora pi\u00f9 grande. Poi tir\u00f2 fuori la posta del mattino e cominci\u00f2 a leggerla, ostentando d'ignorare completamente il vecchio. Aveva deciso che non era proprio il suo tipo e voleva che se ne andasse. Ma il vecchio non si mosse. Stava fermo, appoggiato al suo bastone, fissando lo Hobbit senza dire niente, finch\u00e9 Bilbo si sent\u00ec a disagio e anche un po' seccato."
    ]
   },
   {
-   "begin": "217.400",
+   "begin": "488.640",
    "children": [],
-   "end": "217.520",
+   "end": "490.320",
    "id": "f000032",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "217.520",
+   "begin": "490.320",
    "children": [],
-   "end": "225.560",
+   "end": "501.000",
    "id": "f000033",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u3068\u3053\u308d\u304c\u3001\u8857\u306f\u305a\u308c\u307e\u3067\u6765\u305f\u6642\u3001\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u306a\u3069\u982d\u304b\u3089\u5439\u3063\u98db\u3076\u3088\u3046\u306a\u3053\u3068\u304c\u8d77\u3053\u3063\u305f\u306e\u3060\u3002\u3044\u3064\u3082\u306e\u671d\u306e\u6e0b\u6ede\u306b\u5dfb\u304d\u8fbc\u307e\u308c\u3001\u8eca\u306e\u4e2d\u3067\u3058\u3063\u3068\u3057\u3066\u3044\u308b\u3068\u3001\u5947\u5999\u306a\u670d\u3092\u7740\u305f\u4eba\u305f\u3061\u304c\u3046\u308d\u3046\u308d\u3057\u3066\u3044\u308b\u306e\u304c\u3001\u3044\u3084\u3067\u3082\u76ee\u306b\u3064\u3044\u305f\u3002\u30de\u30f3\u30c8\u3092\u7740\u3066\u3044\u308b\u3002"
+    "\u00abBuon giorno!\u00bb disse alla fine. \u00abNon vogliamo nessuna avventura qui, grazie tante! Potete tentare sopra la Collina o di l\u00e0 dall'Acqua.\u00bb Con ci\u00f2 voleva dire che la conversazione era conclusa."
    ]
   },
   {
-   "begin": "225.560",
+   "begin": "501.000",
    "children": [],
-   "end": "225.560",
+   "end": "501.000",
    "id": "f000034",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "225.560",
+   "begin": "501.000",
    "children": [],
-   "end": "231.000",
+   "end": "511.320",
    "id": "f000035",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u304a\u304b\u3057\u306a\u670d\u3092\u7740\u305f\u9023\u4e2d\u306b\u306f\u6211\u6162\u304c\u306a\u3089\u3093\u2015\u2015\u8fd1\u9803\u306e\u82e5\u3044\u3084\u3064\u3089\u306e\u683c\u597d\u3068\u304d\u305f\u3089\uff01\u3000\u30de\u30f3\u30c8\u3082\u6700\u8fd1\u306e\u30d0\u30ab\u3052\u305f\u6d41\u884c\u306a\u3093\u3060\u308d\u3046\u3002"
+    "\u00abPer\u00f2, quante cose sai dire col tuo Buon giorno!\u00bb disse Gandalf. \u00abAdesso vuoi dire che ti vuoi sbarazzare di me e che il giorno non sar\u00e0 buono finch\u00e9 non me ne sar\u00f2 andato.\u00bb"
    ]
   },
   {
-   "begin": "231.000",
+   "begin": "511.320",
    "children": [],
-   "end": "231.000",
+   "end": "512.640",
    "id": "f000036",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "231.000",
+   "begin": "512.640",
    "children": [],
-   "end": "241.240",
+   "end": "519.080",
    "id": "f000037",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30cf\u30f3\u30c9\u30eb\u3092\u6307\u3067\u30a4\u30e9\u30a4\u30e9\u3068\u53e9\u3044\u3066\u3044\u308b\u3068\u3001\u3075\u3068\u3001\u3059\u3050\u305d\u3070\u306b\u7acb\u3063\u3066\u3044\u308b\u304a\u304b\u3057\u306a\u9023\u4e2d\u304c\u76ee\u306b\u6b62\u307e\u3063\u305f\u3002\u4f55\u3084\u3089\u8208\u596e\u3057\u3066\u56c1\u304d\u5408\u3063\u3066\u3044\u308b\u3002\u3051\u3057\u304b\u3089\u3093\u3053\u3068\u306b\u3001\u3068\u3046\u3066\u3044\u82e5\u3044\u3068\u306f\u8a00\u3048\u306a\u3044\u3084\u3064\u304c\u6570\u4eba\u6df7\u3058\u3063\u3066\u3044\u308b\u3002"
+    "\u00abNiente affatto, niente affatto, caro signore! Vediamo un po', non credo di conoscere il vostro nome...\u00bb"
    ]
   },
   {
-   "begin": "241.240",
+   "begin": "519.080",
    "children": [],
-   "end": "241.360",
+   "end": "519.080",
    "id": "f000038",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "241.360",
+   "begin": "519.080",
    "children": [],
-   "end": "244.160",
+   "end": "540.880",
    "id": "f000039",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u3042\u3044\u3064\u306a\u3093\u304b\u81ea\u5206\u3088\u308a\u5e74\u3092\u3068\u3063\u3066\u3044\u308b\u306e\u306b\u3001\u30a8\u30e1\u30e9\u30eb\u30c9\u8272\u306e\u30de\u30f3\u30c8\u3092\u7740\u3066\u3044\u308b\u3002\u3069\u3046\u3044\u3046\u795e\u7d4c\u3060\uff01"
+    "\u00abS\u00ec, s\u00ec, mio caro signore!... E io conosco benissimo il tuo, signor Bilbo Baggins. E tu conosci benissimo il mio, anche se non ricordi che sono io a portarlo. Io sono Gandalf e Gandalf vuol dire 'me'! E pensare che dovevo vivere per essere congedato con un 'Buon giorno' dal figlio di Belladonna Tuc, come se fossi un venditore ambulante di bottoni!\u00bb"
    ]
   },
   {
-   "begin": "244.160",
+   "begin": "540.880",
    "children": [],
-   "end": "244.160",
+   "end": "540.880",
    "id": "f000040",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "244.160",
+   "begin": "540.880",
    "children": [],
-   "end": "247.480",
+   "end": "613.240",
    "id": "f000041",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5f85\u3066\u3088\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3001\u306f\u305f\u3068\u601d\u3044\u3064\u3044\u305f\u3002"
+    "\u00abGandalf, Gandalf! Figurarsi un po'! Quello stregone vagabondo che diede al Vecchio Tuc un paio di magici gemelli di diamanti che si attaccavano da s\u00e9 e non si riusciva pi\u00f9 a staccarli fino a che non glielo si ordinava? Quel tipo che alle feste raccontava splendide storie di draghi e orchi e giganti e la liberazione di principesse e la fortuna inaspettata di figli di vedove? L'uomo che sapeva fabbricare quei fantastici fuochi d'artificio? Quelli s\u00ec che me li ricordo! Il Vecchio Tuc li faceva a Ferragosto. Splendidi! Salivano come enormi gigli, bocche di leone e ginestre di fuoco, e rimanevano sospesi nel crepuscolo per tutta la sera!\u00bb Vi sarete accorti che il signor Baggins non era proprio cos\u00ec prosaico come amava credere, e inoltre che era molto amante dei fiori. \u00abPovero me!\u00bb continu\u00f2. \u00abProprio il Gandalf che spinse tanti bravi ragazzi e ragazze a partire per l'Ignoto in cerca di pazze avventure: arrampicarsi sugli alberi, visitare elfi o andare per nave e far vela per altri lidi! Che il cielo mi perdoni, la vita era proprio interess... voglio dire, un tempo avevate l'abitudine di metter tutto sottosopra da queste parti! Vi chiedo scusa, ma non avevo idea che foste ancora in affari!\u00bb"
    ]
   },
   {
-   "begin": "247.480",
+   "begin": "613.240",
    "children": [],
-   "end": "248.040",
+   "end": "614.680",
    "id": "f000042",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "248.040",
+   "begin": "614.680",
    "children": [],
-   "end": "253.400",
+   "end": "632.200",
    "id": "f000043",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u304f\u3060\u3089\u3093\u829d\u5c45\u3092\u3057\u3066\u3044\u308b\u306b\u9055\u3044\u306a\u3044\u2015\u2015\u5f53\u7136\u3001\u9023\u4e2d\u306f\u5bc4\u4ed8\u96c6\u3081\u3092\u3057\u3066\u3044\u308b\u3093\u3060\u2026\u2026\u305d\u3046\u3060\u3001\u305d\u308c\u3060\uff01"
+    "\u00abChe altro dovrei fare?\u00bb disse lo stregone. \u00abMa sono contento lo stesso di vedere che ricordi qualcosa di me. Sei gentile a ricordare almeno i miei fuochi d'artificio, e questo mi fa sperare bene. S\u00ec, certo! Per amore del tuo vecchio nonno Tuc e per amore della povera Belladonna, ti dar\u00f2 quello che mi hai chiesto!\u00bb"
    ]
   },
   {
-   "begin": "253.400",
+   "begin": "632.200",
    "children": [],
-   "end": "253.760",
+   "end": "634.280",
    "id": "f000044",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "253.760",
+   "begin": "634.280",
    "children": [],
-   "end": "260.920",
+   "end": "636.080",
    "id": "f000045",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u3084\u3063\u3068\u8eca\u304c\u6d41\u308c\u306f\u3058\u3081\u305f\u3002\u6570\u5206\u5f8c\u3001\u8eca\u306f\u30b0\u30e9\u30cb\u30f3\u30b0\u30ba\u793e\u306e\u99d0\u8eca\u5834\u306b\u7740\u304d\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306e\u982d\u306f\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u306b\u623b\u3063\u3066\u3044\u305f\u3002"
+    "\u00abVi chiedo scusa, ma io non ho chiesto niente!\u00bb"
    ]
   },
   {
-   "begin": "260.920",
+   "begin": "636.080",
    "children": [],
-   "end": "260.920",
+   "end": "637.040",
    "id": "f000046",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "260.920",
+   "begin": "637.040",
    "children": [],
-   "end": "298.200",
+   "end": "650.560",
    "id": "f000047",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306e\u30aa\u30d5\u30a3\u30b9\u306f\u5341\u968e\u3067\u3001\u3044\u3064\u3082\u7a93\u306b\u80cc\u3092\u5411\u3051\u3066\u5ea7\u3063\u3066\u3044\u305f\u3002\u305d\u3046\u3067\u306a\u304b\u3063\u305f\u3089\u3001\u4eca\u671d\u306f\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u306b\u96c6\u4e2d\u3067\u304d\u306a\u304b\u3063\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u771f\u3063\u663c\u9593\u304b\u3089\u3075\u304f\u308d\u3046\u304c\u7a7a\u3092\u98db\u3073\u4ea4\u3046\u306e\u3092\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u898b\u306a\u3044\u3067\u3059\u3093\u3060\u304c\u3001\u9053\u884c\u304f\u591a\u304f\u306e\u4eba\u306f\u305d\u308c\u3092\u76ee\u6483\u3057\u305f\u3002\u3075\u304f\u308d\u3046\u304c\u6b21\u304b\u3089\u6b21\u3078\u3068\u98db\u3093\u3067\u3086\u304f\u306e\u3092\u6307\u3055\u3057\u3066\u306f\u3001\u3044\u3063\u305f\u3044\u3042\u308c\u306f\u4f55\u3060\u3068\u53e3\u3092\u3042\u3093\u3050\u308a\u958b\u3051\u3066\u898b\u3064\u3081\u3066\u3044\u305f\u306e\u3060\u3002\u3075\u304f\u308d\u3046\u306a\u3093\u3066\u3001\u305f\u3044\u304c\u3044\u306e\u4eba\u306f\u591c\u306b\u3060\u3063\u3066\u898b\u305f\u3053\u3068\u304c\u306a\u3044\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u663c\u307e\u3067\u3001\u3057\u3054\u304f\u307e\u3068\u3082\u306b\u3001\u3075\u304f\u308d\u3046\u3068\u306f\u7121\u7e01\u3067\u904e\u3054\u3057\u305f\u3002\u4e94\u4eba\u306e\u793e\u54e1\u3092\u6012\u9cf4\u308a\u3064\u3051\u3001\u4f55\u672c\u304b\u91cd\u8981\u306a\u96fb\u8a71\u3092\u304b\u3051\u3001\u307e\u305f\u5c11\u3057\u30ac\u30df\u30ac\u30df\u6012\u9cf4\u3063\u305f\u3002\u304a\u304b\u3052\u3067\u304a\u663c\u307e\u3067\u306f\u4e0a\u6a5f\u5acc\u3060\u3063\u305f\u3002\u305d\u308c\u304b\u3089\u3001\u5c11\u3057\u624b\u8db3\u3092\u4f38\u3070\u305d\u3046\u304b\u3068\u3001\u9053\u8def\u306e\u5411\u304b\u3044\u5074\u306b\u3042\u308b\u30d1\u30f3\u5c4b\u307e\u3067\u6b69\u3044\u3066\u8cb7\u3044\u7269\u306b\u884c\u304f\u3053\u3068\u306b\u3057\u305f\u3002"
+    "\u00abE invece s\u00ec, e per ben due volte. Sei scusato. Te lo dar\u00f2. Anzi, far\u00f2 di pi\u00f9: ti dar\u00f2 una bella parte in quest'avventura, molto divertente per me, ottima per te, e anche proficua, probabilmente, se riesci a venirne fuori.\u00bb"
    ]
   },
   {
-   "begin": "298.200",
+   "begin": "650.560",
    "children": [],
-   "end": "298.240",
+   "end": "650.560",
    "id": "f000048",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "298.240",
+   "begin": "650.560",
    "children": [],
-   "end": "321.360",
+   "end": "674.560",
    "id": "f000049",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30de\u30f3\u30c8\u3092\u7740\u305f\u9023\u4e2d\u306e\u3053\u3068\u306f\u3059\u3063\u304b\u308a\u5fd8\u308c\u3066\u3044\u305f\u306e\u306b\u3001\u30d1\u30f3\u5c4b\u306e\u624b\u524d\u3067\u307e\u305f\u30de\u30f3\u30c8\u96c6\u56e3\u306b\u51fa\u4f1a\u3063\u3066\u3057\u307e\u3063\u305f\u3002\u305d\u3070\u3092\u901a\u308a\u904e\u304e\u308b\u6642\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3001\u3051\u3057\u304b\u3089\u3093\u3068\u3070\u304b\u308a\u306b\u7768\u307f\u3064\u3051\u305f\u3002\u306a\u305c\u304b\u3053\u306e\u9023\u4e2d\u306f\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u3092\u4e0d\u5b89\u306a\u6c17\u6301\u306b\u3055\u305b\u305f\u3002\u3053\u306e\u30de\u30f3\u30c8\u96c6\u56e3\u3082\u3001\u4f55\u3084\u3089\u8208\u596e\u3057\u3066\u56c1\u304d\u5408\u3063\u3066\u3044\u305f\u3002\u3057\u304b\u3082\u5bc4\u4ed8\u96c6\u3081\u306e\u7a7a\u7f36\u304c\u4e00\u3064\u3082\u898b\u5f53\u305f\u3089\u306a\u3044\u3002\u30d1\u30f3\u5c4b\u304b\u3089\u306e\u5e30\u308a\u9053\u3001\u5927\u304d\u306a\u30c9\u30fc\u30ca\u30c4\u3092\u5165\u308c\u305f\u7d19\u888b\u3092\u63e1\u308a\u3001\u307e\u305f\u9023\u4e2d\u306e\u305d\u3070\u3092\u901a\u308a\u904e\u304e\u3088\u3046\u3068\u3057\u305f\u305d\u306e\u6642\u3001\u3053\u3093\u306a\u8a00\u8449\u304c\u8033\u306b\u98db\u3073\u8fbc\u3093\u3067\u304d\u305f\u3002"
+    "\u00abScusate! Io non voglio nessuna avventura, grazie! Non oggi! Buon giorno! Ma venite a prendere il t\u00e8, per piacere, quando vi pare! Perch\u00e9 non domani? Venite domani! Arrivederci!\u00bb Detto questo lo Hobbit si gir\u00f2, svignandosela per la verde porta rotonda, e la chiuse, appena os\u00f2 farlo senza apparire maleducato. Dopo tutto, gli stregoni sono sempre stregoni."
    ]
   },
   {
-   "begin": "321.360",
+   "begin": "674.560",
    "children": [],
-   "end": "322.200",
+   "end": "674.560",
    "id": "f000050",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "322.200",
+   "begin": "674.560",
    "children": [],
-   "end": "326.000",
+   "end": "687.000",
    "id": "f000051",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u30dd\u30c3\u30bf\u30fc\u3055\u3093\u305f\u3061\u304c\u3001\u305d\u3046\u3001\u308f\u305f\u3057\u3083\u305d\u3046\u805e\u304d\u307e\u3057\u305f\u2026\u2026\u300d"
+    "'Perch\u00e9 mai l'ho invitato a prendere il t\u00e8?' disse tra s\u00e9 e s\u00e9 andando in dispensa. Aveva appena fatto colazione, ma pens\u00f2 che una torta o due e un bicchierino gli avrebbero fatto bene dopo lo spavento."
    ]
   },
   {
-   "begin": "326.000",
+   "begin": "687.000",
    "children": [],
-   "end": "326.040",
+   "end": "687.000",
    "id": "f000052",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "326.040",
+   "begin": "687.000",
    "children": [],
-   "end": "329.440",
+   "end": "710.680",
    "id": "f000053",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u2026\u2026\u305d\u3046\u305d\u3046\u3001\u606f\u5b50\u306e\u30cf\u30ea\u30fc\u304c\u306d\u2026\u2026\u300d"
+    "Frattanto Gandalf stava ancora l\u00ec fuori della porta, ridendo a lungo, ma silenziosamente. Dopo un po' si mosse e con la punta del bastone fece uno strano segno sul bel portoncino verde dello Hobbit. Poi si allontan\u00f2 a grandi passi, pi\u00f9 o meno mentre Bilbo stava finendo la sua seconda torta e cominciava a pensare che era stato molto abile nell'evitare avventure."
    ]
   },
   {
-   "begin": "329.440",
+   "begin": "710.680",
    "children": [],
-   "end": "329.480",
+   "end": "710.680",
    "id": "f000054",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "329.480",
+   "begin": "710.680",
    "children": [],
-   "end": "336.440",
+   "end": "726.720",
    "id": "f000055",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u30cf\u30c3\u3068\u7acb\u3061\u6b62\u307e\u3063\u305f\u3002\u6050\u6016\u304c\u6e67\u304d\u4e0a\u304c\u3063\u3066\u304d\u305f\u3002\u3044\u3063\u305f\u3093\u306f\u30d2\u30bd\u30d2\u30bd\u58f0\u306e\u3059\u308b\u65b9\u3092\u632f\u308a\u8fd4\u3063\u3066\u3001\u4f55\u304b\u8a00\u304a\u3046\u304b\u3068\u601d\u3063\u305f\u304c\u3001\u5f85\u3066\u3088\u3001\u3068\u8003\u3048\u306a\u304a\u3057\u305f\u3002"
+    "Il giorno dopo aveva quasi dimenticato Gandalf. Non ricordava molto bene le cose, a meno che non le mettesse gi\u00f9 sulla lavagnetta dove segnava gli appuntamenti, pi\u00f9 o meno cos\u00ec: \u00abGandalf. T\u00e8. Mercoled\u00ec\u00bb. Ieri era stato troppo agitato per poter fare qualcosa del genere."
    ]
   },
   {
-   "begin": "336.440",
+   "begin": "726.720",
    "children": [],
-   "end": "336.440",
+   "end": "727.840",
    "id": "f000056",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "336.440",
+   "begin": "727.840",
    "children": [],
-   "end": "351.560",
+   "end": "741.160",
    "id": "f000057",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u731b\u30b9\u30d4\u30fc\u30c9\u3067\u9053\u3092\u6a2a\u5207\u308a\u3001\u30aa\u30d5\u30a3\u30b9\u306b\u99c6\u3051\u623b\u308b\u3084\u3044\u306a\u3084\u3001\u79d8\u66f8\u306b\u300c\u8ab0\u3082\u53d6\u308a\u7d99\u3050\u306a\u300d\u3068\u547d\u4ee4\u3057\u3001\u30c9\u30a2\u3092\u30d4\u30b7\u30e3\u30c3\u3068\u9589\u3081\u3066\u96fb\u8a71\u3092\u3072\u3063\u3064\u304b\u307f\u3001\u5bb6\u306e\u756a\u53f7\u3092\u56de\u3057\u306f\u3058\u3081\u305f\u3002\u3057\u304b\u3057\u3001\u30c0\u30a4\u30e4\u30eb\u3057\u7d42\u308f\u3089\u306a\u3044\u3046\u3061\u306b\u6c17\u304c\u5909\u308f\u3063\u305f\u3002\u53d7\u8a71\u5668\u3092\u7f6e\u304d\u3001\u53e3\u9aed\u3092\u306a\u3067\u306a\u304c\u3089\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u8003\u3048\u305f\u3002"
+    "Proprio un momento prima dell'ora del t\u00e8, il campanello della porta son\u00f2 furiosamente, e allora si ricord\u00f2! Corse a metter su la cuccuma per l'acqua, tir\u00f2 fuori un'altra tazza e un piattino, una o due torte in pi\u00f9, e corse alla porta."
    ]
   },
   {
-   "begin": "351.560",
+   "begin": "741.160",
    "children": [],
-   "end": "351.560",
+   "end": "741.160",
    "id": "f000058",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "351.560",
+   "begin": "741.160",
    "children": [],
-   "end": "378.000",
+   "end": "758.840",
    "id": "f000059",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u307e\u3055\u304b\u3001\u81ea\u5206\u306f\u306a\u3093\u3066\u611a\u304b\u306a\u3093\u3060\u3002\u30dd\u30c3\u30bf\u30fc\u306a\u3093\u3066\u73cd\u3057\u3044\u540d\u524d\u3058\u3083\u306a\u3044\u3002\u30cf\u30ea\u30fc\u3068\u3044\u3046\u540d\u306e\u7537\u306e\u5b50\u304c\u3044\u308b\u30dd\u30c3\u30bf\u30fc\u5bb6\u306a\u3093\u3066\u3001\u5c71\u307b\u3069\u3042\u308b\u306b\u9055\u3044\u306a\u3044\u3002\u8003\u3048\u3066\u307f\u308a\u3083\u3001\u7525\u306e\u540d\u524d\u304c\u30cf\u30ea\u30fc\u3060\u3063\u305f\u304b\u3069\u3046\u304b\u3055\u3048\u78ba\u304b\u3058\u3083\u306a\u3044\u3002\u4e00\u5ea6\u3082\u4f1a\u3063\u305f\u3053\u3068\u3082\u306a\u3044\u3057\u3001\u30cf\u30fc\u30d3\u30fc\u3068\u3044\u3046\u540d\u3060\u3063\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u3044\u3084\u30cf\u30ed\u30eb\u30c9\u304b\u3082\u3002\u3053\u3093\u306a\u3053\u3068\u3067\u59bb\u306b\u5fc3\u914d\u3092\u304b\u3051\u3066\u3082\u3057\u3087\u3046\u304c\u306a\u3044\u3002\u59b9\u306e\u8a71\u304c\u30c1\u30e9\u30c3\u3068\u3067\u3082\u51fa\u308b\u3068\u3001\u3042\u308c\u306f\u3044\u3064\u3082\u53d6\u308a\u4e71\u3059\u3002\u7121\u7406\u3082\u306a\u3044\u3002\u3082\u3057\u81ea\u5206\u306e\u59b9\u304c\u3042\u3093\u306a\u3075\u3046\u3060\u3063\u305f\u3089\u2026\u2026\u305d\u308c\u306b\u3057\u3066\u3082\u3001\u3044\u3063\u305f\u3044\u3042\u306e\u30de\u30f3\u30c8\u3092\u7740\u305f\u9023\u4e2d\u306f\u2026\u2026\u3002"
+    "Stava per dire: \u00abMi dispiace tanto di avervi fatto aspettare!\u00bb, quando vide che non era affatto Gandalf. Era un Nano con una barba blu infilata in una cintura d'oro, e occhi vivacissimi sotto il cappuccio verde scuro. Appena la porta fu aperta, si infil\u00f2 dentro, proprio come se fosse stato atteso."
    ]
   },
   {
-   "begin": "378.000",
+   "begin": "758.840",
    "children": [],
-   "end": "378.000",
+   "end": "760.560",
    "id": "f000060",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "378.000",
+   "begin": "760.560",
    "children": [],
-   "end": "385.680",
+   "end": "767.320",
    "id": "f000061",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u663c\u304b\u3089\u306f\u3001\u3069\u3046\u3082\u7a74\u3042\u3051\u30c9\u30ea\u30eb\u306b\u96c6\u4e2d\u3067\u304d\u306a\u304b\u3063\u305f\u3002\u4e94\u6642\u306b\u4f1a\u793e\u3092\u51fa\u305f\u6642\u3082\u3001\u4f55\u304b\u304c\u6c17\u306b\u306a\u308a\u3001\u5916\u306b\u51fa\u305f\u3068\u305f\u3093\u8ab0\u304b\u3068\u6b63\u9762\u885d\u7a81\u3057\u3066\u3057\u307e\u3063\u305f\u3002"
+    "Appese il mantello a cappuccio sull'attaccapanni pi\u00f9 vicino e, con un leggero inchino, disse: \u00abDwalin al vostro servizio!.\u00bb"
    ]
   },
   {
-   "begin": "385.680",
+   "begin": "767.320",
    "children": [],
-   "end": "385.720",
+   "end": "768.560",
    "id": "f000062",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "385.720",
+   "begin": "768.560",
    "children": [],
-   "end": "386.440",
+   "end": "794.640",
    "id": "f000063",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3059\u307f\u307e\u305b\u3093\u300d"
+    "\u00abBilbo Baggins al vostro!\u00bb disse lo Hobbit, troppo sorpreso per poter far domande. Quando il silenzio che segu\u00ec divenne imbarazzante, aggiunse: \u00abStavo proprio per prendere il t\u00e8; volete avere la cortesia di venire a prenderne una tazza con me?\u00bb. Un po' troppo formale, forse, ma l'intenzione era gentile. E d'altra parte voi che cosa fareste, se vi arrivasse un Nano inaspettato e appendesse le sue cose nel vostro ingresso senza una parola di spiegazione?"
    ]
   },
   {
-   "begin": "386.440",
+   "begin": "794.640",
    "children": [],
-   "end": "386.480",
+   "end": "796.520",
    "id": "f000064",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "386.480",
+   "begin": "796.520",
    "children": [],
-   "end": "400.240",
+   "end": "803.920",
    "id": "f000065",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u547b\u304d\u58f0\u3092\u51fa\u3057\u305f\u3002\u76f8\u624b\u306f\u5c0f\u3055\u306a\u8001\u4eba\u3067\u3001\u3088\u308d\u3051\u3066\u8ee2\u3073\u305d\u3046\u306b\u306a\u3063\u305f\u3002\u6570\u79d2\u5f8c\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u8001\u4eba\u304c\u30b9\u30df\u30ec\u8272\u306e\u30de\u30f3\u30c8\u3092\u7740\u3066\u3044\u308b\u306e\u306b\u6c17\u3065\u3044\u305f\u3002\u5730\u9762\u306b\u30d0\u30c3\u30bf\u30ea\u306f\u3044\u3064\u304f\u3070\u308a\u305d\u3046\u306b\u306a\u3063\u305f\u306e\u306b\u3001\u307e\u3063\u305f\u304f\u6c17\u306b\u3057\u3066\u3044\u306a\u3044\u69d8\u5b50\u3060\u3002\u305d\u308c\u3069\u3053\u308d\u304b\u3001\u9854\u304c\u4e0a\u4e0b\u306b\u5272\u308c\u308b\u304b\u3068\u601d\u3063\u305f\u307b\u3069\u5927\u304d\u304f\u306b\u3063\u3053\u308a\u3057\u3066\u3001\u9053\u884c\u304f\u4eba\u304c\u632f\u308a\u8fd4\u308b\u307b\u3069\u306e\u30ad\u30fc\u30ad\u30fc\u58f0\u3067\u3053\u3046\u8a00\u3063\u305f\u3002"
+    "Non erano stati a lungo a tavola - in effetti avevano a malapena attaccato la terza torta - quando il campanello son\u00f2 ancora, e pi\u00f9 forte di prima."
    ]
   },
   {
-   "begin": "400.240",
+   "begin": "803.920",
    "children": [],
-   "end": "400.240",
+   "end": "803.920",
    "id": "f000066",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "400.240",
+   "begin": "803.920",
    "children": [],
-   "end": "408.120",
+   "end": "808.800",
    "id": "f000067",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u65e6\u90a3\u3001\u3059\u307f\u307e\u305b\u3093\u306a\u3093\u3066\u3068\u3093\u3067\u3082\u306a\u3044\u3002\u4eca\u65e5\u306f\u4f55\u304c\u3042\u3063\u305f\u3063\u3066\u6c17\u306b\u3057\u307e\u305b\u3093\u3088\u3002\u4e07\u6b73\uff01\u300e\u4f8b\u306e\u3042\u306e\u4eba\u300f\u304c\u3068\u3046\u3068\u3046\u3044\u306a\u304f\u306a\u3063\u305f\u3093\u3067\u3059\u3088\uff01\u3000\u3042\u306a\u305f\u306e\u3088\u3046\u306a\u30de\u30b0\u30eb\u3082\u3001\u3053\u3093\u306a\u5e78\u305b\u306a\u3081\u3067\u305f\u3044\u65e5\u306f\u304a\u795d\u3044\u3059\u3079\u304d\u3067\u3059\u300d"
+    "\u00abScusatemi!\u00bb disse lo Hobbit, e and\u00f2 ad aprire la porta."
    ]
   },
   {
-   "begin": "408.120",
+   "begin": "808.800",
    "children": [],
-   "end": "408.120",
+   "end": "810.120",
    "id": "f000068",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "408.120",
+   "begin": "810.120",
    "children": [],
-   "end": "425.600",
+   "end": "826.760",
    "id": "f000069",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5c0f\u3055\u306a\u8001\u4eba\u306f\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306e\u304a\u3078\u305d\u306e\u3042\u305f\u308a\u3092\u3084\u304a\u3089\u30ae\u30e5\u30c3\u3068\u62b1\u304d\u3057\u3081\u308b\u3068\u3001\u7acb\u3061\u53bb\u3063\u3066\u3044\u3063\u305f\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u305d\u306e\u5834\u306b\u6839\u304c\u751f\u3048\u305f\u3088\u3046\u306b\u7a81\u3063\u7acb\u3063\u3066\u3044\u305f\u3002\u307e\u3063\u305f\u304f\u898b\u305a\u77e5\u3089\u305a\u306e\u4eba\u306b\u62b1\u304d\u3064\u304b\u308c\u305f\u3002\u30de\u30b0\u30eb\u3068\u304b\u306a\u3093\u3068\u304b\u547c\u3070\u308c\u305f\u3088\u3046\u306a\u6c17\u3082\u3059\u308b\u3002\u30af\u30e9\u30af\u30e9\u3057\u3066\u304d\u305f\u3002\u6025\u3044\u3067\u8eca\u306b\u4e57\u308a\u8fbc\u3080\u3068\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u5bb6\u306b\u5411\u304b\u3063\u3066\u8d70\u308a\u51fa\u3057\u305f\u3002\u3069\u3046\u304b\u81ea\u5206\u306e\u5e7b\u60f3\u3067\u3042\u308a\u307e\u3059\u3088\u3046\u306b\u2026\u2026\u5e7b\u60f3\u306a\u3069\u6c7a\u3057\u3066\u8a8d\u3081\u306a\u3044\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306b\u3057\u3066\u307f\u308c\u3070\u3001\u3053\u3093\u306a\u9858\u3044\u3092\u6301\u3064\u306e\u306f\u751f\u307e\u308c\u3066\u521d\u3081\u3066\u3060\u3063\u305f\u3002"
+    "\u00abFinalmente siete arrivato!\u00bb Questo era quanto avrebbe detto a Gandalf questa volta. Ma non era Gandalf. Al suo posto, sulla soglia, c'era un Nano molto vecchio, con una barba bianca e un cappuccio scarlatto; e anche lui saltell\u00f2 dentro appena la porta fu aperta, proprio come se fosse stato invitato."
    ]
   },
   {
-   "begin": "425.600",
+   "begin": "826.760",
    "children": [],
-   "end": "425.600",
+   "end": "828.720",
    "id": "f000070",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "425.600",
+   "begin": "828.720",
    "children": [],
-   "end": "433.320",
+   "end": "839.960",
    "id": "f000071",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u3084\u3063\u3068\u306e\u601d\u3044\u3067\u56db\u756a\u5730\u306b\u623b\u308b\u3068\u3001\u771f\u3063\u5148\u306b\u76ee\u306b\u5165\u3063\u305f\u306e\u306f\u2015\u2015\u3042\u3042\u3001\u306a\u3093\u305f\u308b\u3053\u3068\u3060\u2015\u2015\u4eca\u671d\u898b\u304b\u3051\u305f\u3001\u3042\u306e\u3001\u30c8\u30e9\u732b\u3060\u3063\u305f\u3002\u4eca\u5ea6\u306f\u5ead\u306e\u77f3\u57a3\u306e\u4e0a\u306b\u5ea7\u308a\u8fbc\u3093\u3067\u3044\u308b\u3002\u9593\u9055\u3044\u306a\u304f\u3042\u306e\u732b\u3060\u3002\u76ee\u306e\u307e\u308f\u308a\u306e\u6a21\u69d8\u304c\u304a\u3093\u306a\u3058\u3060\u3002"
+    "\u00abVedo che han gi\u00e0 cominciato ad arrivare\u00bb disse scorgendo il cappuccio verde di Dwalin appeso all'attaccapanni. Vi appese vicino quello suo, rosso, e con la mano sul petto disse: \u00abBalin al vostro servizio!\u00bb"
    ]
   },
   {
-   "begin": "433.320",
+   "begin": "839.960",
    "children": [],
-   "end": "433.320",
+   "end": "841.360",
    "id": "f000072",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "433.320",
+   "begin": "841.360",
    "children": [],
-   "end": "433.880",
+   "end": "868.320",
    "id": "f000073",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u30b7\u30c3\u30b7\u30c3\uff01\u300d"
+    "\u00abGrazie!\u00bb disse Bilbo boccheggiante. Non era la risposta giusta, ma la frase \u00abhan cominciato ad arrivare\u00bb lo aveva proprio sconvolto. I visitatori gli piacevano, ma gli piaceva conoscerli prima che arrivassero e preferiva invitarli di persona. Aveva l'orribile sensazione che il numero delle torte sarebbe probabilmente risultato insufficiente, e che lui poi, come anfitrione (conosceva il suo dovere e lo compiva, per quanto fosse doloroso), avrebbe dovuto farne a meno."
    ]
   },
   {
-   "begin": "433.880",
+   "begin": "868.320",
    "children": [],
-   "end": "434.040",
+   "end": "869.960",
    "id": "f000074",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "434.040",
+   "begin": "869.960",
    "children": [],
-   "end": "435.800",
+   "end": "874.320",
    "id": "f000075",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u5927\u58f0\u3092\u51fa\u3057\u305f\u3002"
+    "\u00abVenite dentro a prendere un po' di t\u00e8\u00bb riusc\u00ec a dire dopo aver tratto un profondo respiro."
    ]
   },
   {
-   "begin": "435.800",
+   "begin": "874.320",
    "children": [],
-   "end": "435.800",
+   "end": "875.680",
    "id": "f000076",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "435.800",
+   "begin": "875.680",
    "children": [],
-   "end": "462.560",
+   "end": "884.640",
    "id": "f000077",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u732b\u306f\u52d5\u304b\u306a\u3044\u3002\u3058\u308d\u308a\u3068\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u3092\u898b\u305f\u3060\u3051\u3060\u3002\u307e\u3068\u3082\u306a\u732b\u304c\u3053\u3093\u306a\u614b\u5ea6\u3092\u53d6\u308b\u306e\u3060\u308d\u3046\u304b\u3001\u3068\u5f7c\u306f\u9996\u3092\u304b\u3057\u3052\u305f\u3002\u305d\u308c\u304b\u3089\u6c17\u3092\u30b7\u30e3\u30f3\u3068\u53d6\u308a\u306a\u304a\u3057\u3001\u5bb6\u306b\u5165\u3063\u3066\u3044\u3063\u305f\u3002\u59bb\u306b\u306f\u4f55\u3082\u8a00\u3046\u307e\u3044\u3068\u3044\u3046\u6c7a\u5fc3\u306f\u5909\u308f\u3063\u3066\u3044\u306a\u304b\u3063\u305f\u3002\u5965\u3055\u3093\u306f\u3001\u3059\u3070\u3089\u3057\u304f\u307e\u3068\u3082\u306a\u4e00\u65e5\u3092\u904e\u3054\u3057\u3066\u3044\u305f\u3002\u5915\u98df\u3092\u98df\u3079\u306a\u304c\u3089\u3001\u96a3\u306e\u30df\u30bb\u30b9\u4f55\u3068\u304b\u304c\u5a18\u306e\u3053\u3068\u3067\u3055\u3093\u3056\u3093\u56f0\u3063\u3066\u3044\u308b\u3068\u304b\u3001\u30c0\u30c9\u30ea\u30fc\u574a\u3084\u304c\u300c\u30a4\u30e4\u30c3\uff01\u300d\u3068\u3044\u3046\u65b0\u3057\u3044\u8a00\u8449\u3092\u899a\u3048\u305f\u3068\u304b\u3092\u592b\u306b\u8a71\u3057\u3066\u805e\u304b\u305b\u305f\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u306a\u308b\u3079\u304f\u3075\u3060\u3093\u3069\u304a\u308a\u306b\u632f\u308b\u821e\u304a\u3046\u3068\u3057\u305f\u3002\u30c0\u30c9\u30ea\u30fc\u574a\u3084\u304c\u5bdd\u305f\u5f8c\u3001\u5c45\u9593\u306b\u79fb\u3063\u305f\u304c\u3001\u3061\u3087\u3046\u3069\u30c6\u30ec\u30d3\u306e\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9\u304c\u59cb\u307e\u3063\u305f\u3068\u3053\u308d\u3060\u3063\u305f\u3002"
+    "\u00abPreferirei un po' di birra, se per voi \u00e8 lo stesso, mio caro signore\u00bb, disse Balin dalla barba bianca \u00abma un po' di torta mi va benissimo: pan di spagna, se ne avete.\u00bb"
    ]
   },
   {
-   "begin": "462.560",
+   "begin": "884.640",
    "children": [],
-   "end": "462.600",
+   "end": "885.960",
    "id": "f000078",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "462.600",
+   "begin": "885.960",
    "children": [],
-   "end": "484.080",
+   "end": "900.520",
    "id": "f000079",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3055\u3066\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9\u3067\u3059\u3002\u5168\u56fd\u306e\u30d0\u30fc\u30c9\u30a6\u30a9\u30c3\u30c1\u30e3\u30fc\u306b\u3088\u308c\u3070\u3001\u4eca\u65e5\u306f\u30a4\u30ae\u30ea\u30b9\u4e2d\u306e\u3075\u304f\u308d\u3046\u304c\u304a\u304b\u3057\u306a\u884c\u52d5\u3092\u898b\u305b\u305f\u3068\u306e\u3053\u3068\u3067\u3059\u3002\u901a\u5e38\u3001\u3075\u304f\u308d\u3046\u306f\u591c\u306b\u72e9\u3092\u3059\u308b\u306e\u3067\u3001\u663c\u9593\u306b\u59ff\u3092\u898b\u304b\u3051\u308b\u3053\u3068\u306f\u3081\u3063\u305f\u306b\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u4eca\u65e5\u306f\u591c\u660e\u3051\u3068\u3068\u3082\u306b\u3001\u4f55\u767e\u3068\u3044\u3046\u3075\u304f\u308d\u3046\u304c\u56db\u65b9\u516b\u65b9\u306b\u98db\u3073\u4ea4\u3046\u5149\u666f\u304c\u898b\u3089\u308c\u307e\u3057\u305f\u3002\u306a\u305c\u3075\u304f\u308d\u3046\u306e\u884c\u52d5\u304c\u6025\u306b\u591c\u663c\u9006\u306b\u306a\u3063\u305f\u306e\u304b\u3001\u5c02\u9580\u5bb6\u305f\u3061\u306f\u9996\u3092\u304b\u3057\u3052\u3066\u3044\u307e\u3059\u300d"
+    "\u00abAltro che!\u00bb si trov\u00f2 a rispondere Bilbo, con sua gran sorpresa, e si trov\u00f2 anche a correre in cantina per riempire un boccale di birra da mezzo litro e poi in dispensa a cercare due pan di spagna belli rotondi, che aveva cotto nel pomeriggio per lo spuntino dopo cena."
    ]
   },
   {
-   "begin": "484.080",
+   "begin": "900.520",
    "children": [],
-   "end": "484.320",
+   "end": "900.520",
    "id": "f000080",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "484.320",
+   "begin": "900.520",
    "children": [],
-   "end": "486.320",
+   "end": "916.560",
    "id": "f000081",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u305d\u3053\u3067\u30a2\u30ca\u30a6\u30f3\u30b5\u30fc\u306f\u30cb\u30e4\u30ea\u3068\u82e6\u7b11\u3044\u3057\u305f\u3002"
+    "Quando torn\u00f2, Balin e Dwalin stavano a tavola parlando come vecchi amici (per la verit\u00e0 erano fratelli). Bilbo pos\u00f2 seccamente la birra e le torte davanti a loro, ed ecco che il campanello son\u00f2 ancora, e ancora con forza."
    ]
   },
   {
-   "begin": "486.320",
+   "begin": "916.560",
    "children": [],
-   "end": "486.320",
+   "end": "918.040",
    "id": "f000082",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "486.320",
+   "begin": "918.040",
    "children": [],
-   "end": "491.240",
+   "end": "935.520",
    "id": "f000083",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u30df\u30b9\u30c6\u30ea\u30fc\u3067\u3059\u306d\u3002\u3067\u306f\u304a\u5929\u6c17\u3067\u3059\u3002\u30b8\u30e0\u30fb\u30de\u30c3\u30af\u30ac\u30d5\u30a3\u30f3\u3055\u3093\u3069\u3046\u305e\u3002\u30b8\u30e0\u3001\u4eca\u591c\u3082\u3075\u304f\u308d\u3046\u304c\u964d\u3063\u3066\u304d\u307e\u3059\u304b\uff1f\u300d"
+    "'Stavolta \u00e8 Gandalf senz'altro' pens\u00f2 mentre sbuffava nel corridoio. Invece no: erano altri due Nani, entrambi con cappucci blu, cinture d'argento e barba gialla; e ciascuno portava un sacco di attrezzi e una vanga. Saltellarono dentro, appena la porta fu aperta, e Bilbo ne fu assai poco sorpreso."
    ]
   },
   {
-   "begin": "491.240",
+   "begin": "935.520",
    "children": [],
-   "end": "491.360",
+   "end": "935.520",
    "id": "f000084",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "491.360",
+   "begin": "935.520",
    "children": [],
-   "end": "514.960",
+   "end": "939.040",
    "id": "f000085",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u30c6\u30c3\u30c9\u3001\u305d\u306e\u3042\u305f\u308a\u306f\u308f\u304b\u308a\u307e\u305b\u3093\u304c\u3001\u4eca\u65e5\u304a\u304b\u3057\u306a\u884c\u52d5\u3092\u3068\u3063\u305f\u306e\u306f\u3075\u304f\u308d\u3046\u3070\u304b\u308a\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3088\u3002\u8996\u8074\u8005\u306e\u7686\u3055\u3093\u304c\u3001\u9060\u304f\u306f\u30b1\u30f3\u30c8\u3001\u30e8\u30fc\u30af\u30b7\u30e3\u30fc\u3001\u30c0\u30f3\u30c7\u30a3\u30fc\u5dde\u304b\u3089\u304a\u96fb\u8a71\u3092\u304f\u3060\u3055\u3044\u307e\u3057\u305f\u3002\u6628\u65e5\u79c1\u306f\u96e8\u306e\u4e88\u5831\u3092\u51fa\u3057\u305f\u306e\u306b\u3001\u304b\u308f\u308a\u306b\u6d41\u308c\u661f\u304c\u571f\u7802\u964d\u308a\u3060\u3063\u305f\u305d\u3046\u3067\u3059\u3002\u305f\u3076\u3093\u65e9\u3005\u3068\u300e\u30ac\u30a4\u30fb\u30d5\u30a9\u30fc\u30af\u30b9\u306e\u711a\u304d\u706b\u796d\u308a\u300f\u3067\u3082\u3084\u3063\u305f\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002\u7686\u3055\u3093\u3001\u796d\u308a\u306e\u82b1\u706b\u306f\u6765\u9031\u3067\u3059\u3088\uff01\u3000\u3044\u305a\u308c\u306b\u305b\u3088\u3001\u4eca\u591c\u306f\u9593\u9055\u3044\u306a\u304f\u96e8\u3067\u3057\u3087\u3046\u300d"
+    "\u00abCosa posso fare per voi, Nani miei?\u00bb disse."
    ]
   },
   {
-   "begin": "514.960",
+   "begin": "939.040",
    "children": [],
-   "end": "514.960",
+   "end": "940.040",
    "id": "f000086",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "514.960",
+   "begin": "940.040",
    "children": [],
-   "end": "527.480",
+   "end": "947.880",
    "id": "f000087",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5b89\u697d\u6905\u5b50\u306e\u4e2d\u3067\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u4f53\u304c\u51cd\u308a\u3064\u3044\u305f\u3088\u3046\u306a\u6c17\u304c\u3057\u305f\u3002\u30a4\u30ae\u30ea\u30b9\u4e2d\u3067\u6d41\u308c\u661f\u3060\u3063\u3066\uff1f\u3000\u771f\u3063\u663c\u9593\u304b\u3089\u3075\u304f\u308d\u3046\u304c\u98db\u3093\u3060\uff1f\u3000\u30de\u30f3\u30c8\u3092\u7740\u305f\u5947\u5999\u306a\u9023\u4e2d\u304c\u305d\u3053\u3044\u3089\u4e2d\u306b\u3044\u305f\uff1f\u3000\u305d\u308c\u306b\u3001\u3042\u306e\u30d2\u30bd\u30d2\u30bd\u8a71\u3002\u30dd\u30c3\u30bf\u30fc\u4e00\u5bb6\u304c\u3069\u3046\u3057\u305f\u3068\u304b\u2026\u2026\u3002"
+    "\u00abKili al vostro servizio!\u00bb disse uno. \u00abE Fili!\u00bb aggiunse l'altro, ed entrambi si sfilarono il cappuccio blu e fecero un cortese cenno di saluto."
    ]
   },
   {
-   "begin": "527.480",
+   "begin": "947.880",
    "children": [],
-   "end": "527.640",
+   "end": "947.880",
    "id": "f000088",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "527.640",
+   "begin": "947.880",
    "children": [],
-   "end": "534.440",
+   "end": "954.360",
    "id": "f000089",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5965\u3055\u3093\u304c\u7d05\u8336\u3092\u4e8c\u3064\u6301\u3063\u3066\u5c45\u9593\u306b\u5165\u3063\u3066\u304d\u305f\u3002\u307e\u305a\u3044\u3002\u59bb\u306b\u4f55\u304b\u8a00\u308f\u306a\u3051\u308c\u3070\u306a\u308b\u307e\u3044\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u843d\u7740\u304b\u306a\u3044\u54b3\u6255\u3044\u3092\u3057\u305f\u3002"
+    "\u00abAl vostro e della vostra famiglia!\u00bb replic\u00f2 Bilbo, che questa volta si ricord\u00f2 delle buone maniere."
    ]
   },
   {
-   "begin": "534.440",
+   "begin": "954.360",
    "children": [],
-   "end": "534.440",
+   "end": "956.120",
    "id": "f000090",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "534.440",
+   "begin": "956.120",
    "children": [],
-   "end": "539.480",
+   "end": "960.120",
    "id": "f000091",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3042\u30fc\u3001\u30da\u30c1\u30e5\u30cb\u30a2\u3084\u3002\u3068\u3053\u308d\u3067\u6700\u8fd1\u304a\u307e\u3048\u306e\u59b9\u3055\u3093\u304b\u3089\u4fbf\u308a\u306f\u306a\u304b\u3063\u305f\u308d\u3046\u306d\u300d"
+    "\u00abVedo che Dwalin e Balin sono gi\u00e0 qui\u00bb disse Kili. \u00abMescoliamoci alla folla!\u00bb"
    ]
   },
   {
-   "begin": "539.480",
+   "begin": "960.120",
    "children": [],
-   "end": "539.520",
+   "end": "961.400",
    "id": "f000092",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "539.520",
+   "begin": "961.400",
    "children": [],
-   "end": "547.240",
+   "end": "992.880",
    "id": "f000093",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u6848\u306e\u5b9a\u3001\u5965\u3055\u3093\u306f\u30d3\u30af\u30c3\u3068\u3057\u3066\u6012\u3063\u305f\u9854\u3092\u3057\u305f\u3002\u4e8c\u4eba\u3068\u3082\u3075\u3060\u3093\u3001\u5965\u3055\u3093\u306b\u59b9\u306f\u3044\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u306b\u3057\u3066\u3044\u308b\u306e\u3060\u304b\u3089\u5f53\u7136\u3060\u3002"
+    "'La folla!' pens\u00f2 il signor Baggins. 'Questo modo di parlare non mi piace affatto! Devo proprio sedermi un attimo a riprender fiato e a bere qualcosa.' Aveva appena fatto in tempo a bere un sorso (in un angolo, mentre i quattro Nani sedevano attorno alla tavola e parlavano di miniere, di oro, di guai con gli orchi, delle ruberie dei draghi, e di un sacco di altre cose che Bilbo non capiva e non voleva capire, perch\u00e9 avevano l'aria d'essere troppo avventurose) quando ding-dong e ling-lang il campanello son\u00f2 di nuovo, come se un ragazzaccio hobbit stesse cercando di rompere la manetta."
    ]
   },
   {
-   "begin": "547.240",
+   "begin": "992.880",
    "children": [],
-   "end": "547.240",
+   "end": "994.400",
    "id": "f000094",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "547.240",
+   "begin": "994.400",
    "children": [],
-   "end": "548.320",
+   "end": "996.880",
    "id": "f000095",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3042\u308a\u307e\u305b\u3093\u3088\u3002\u3069\u3046\u3057\u3066\uff1f\u300d"
+    "\u00abQualcuno \u00e8 alla porta!\u00bb disse battendo le palpebre."
    ]
   },
   {
-   "begin": "548.320",
+   "begin": "996.880",
    "children": [],
-   "end": "548.320",
+   "end": "998.120",
    "id": "f000096",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "548.320",
+   "begin": "998.120",
    "children": [],
-   "end": "549.080",
+   "end": "1005.720",
    "id": "f000097",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u3068\u3052\u3068\u3052\u3057\u3044\u8fd4\u4e8b\u3060\u3002"
+    "\u00abCirca quattro, direi, dal suono\u00bb disse Fili. \u00abA parte questo, li abbiamo visti venire dietro di noi, in lontananza.\u00bb"
    ]
   },
   {
-   "begin": "549.080",
+   "begin": "1005.720",
    "children": [],
-   "end": "549.080",
+   "end": "1005.720",
    "id": "f000098",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "549.080",
+   "begin": "1005.720",
    "children": [],
-   "end": "551.160",
+   "end": "1070.200",
    "id": "f000099",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u304a\u304b\u3057\u306a\u30cb\u30e5\u30fc\u30b9\u3092\u898b\u305f\u3093\u3067\u306d\u300d"
+    "Il povero piccolo Hobbit si sedette nell'ingresso e si prese la testa tra le mani, domandandosi che cosa fosse accaduto, cosa stesse per accadere, e se sarebbero rimasti a cena tutti quanti. Poi il campanello son\u00f2 di nuovo pi\u00f9 forte che mai, e dovette correre alla porta. Dopo tutto, non erano quattro, erano CINQUE. Un altro Nano era arrivato mentre lui, nell'ingresso, stava domandandosi che cosa succedeva. Aveva a malapena girato la maniglia che erano gi\u00e0 tutti dentro, facendo cortesi cenni di saluto e dicendo: \u00abAl vostro servizio!\u00bb l'uno dopo l'altro. Dori, Nori, Ori, Oin e Gloin erano i loro nomi; e ben presto due cappucci purpurei, un cappuccio grigio, un cappuccio marrone e un cappuccio bianco pendevano dall'attaccapanni e i Nani si avviavano marciando a raggiungere gli altri, con le larghe mani ficcate nelle cinture d'oro e d'argento. Era gi\u00e0 diventata quasi una folla. Qualcuno chiese della birra chiara, qualcuno della birra scura, uno il caff\u00e8 e tutti delle torte; cos\u00ec tennero lo Hobbit molto occupato per un po' di tempo."
    ]
   },
   {
-   "begin": "551.160",
+   "begin": "1070.200",
    "children": [],
-   "end": "551.200",
+   "end": "1072.360",
    "id": "f000100",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "551.200",
+   "begin": "1072.360",
    "children": [],
-   "end": "552.560",
+   "end": "1088.640",
    "id": "f000101",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u30e2\u30b4\u30e2\u30b4\u8a00\u3063\u305f\u3002"
+    "Un gran bricco di caff\u00e8 era stato appena posato a terra, i pan di spagna erano spariti, e i Nani cominciavano un giro di focaccine imburrate, quando si sent\u00ec bussare forte. Non uno squillo, ma un duro bum-bum sulla porta verde dello Hobbit. Qualcuno batteva violentemente con un bastone!"
    ]
   },
   {
-   "begin": "552.560",
+   "begin": "1088.640",
    "children": [],
-   "end": "552.560",
+   "end": "1090.400",
    "id": "f000102",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "552.560",
+   "begin": "1090.400",
    "children": [],
-   "end": "559.440",
+   "end": "1117.800",
    "id": "f000103",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3075\u304f\u308d\u3046\u3068\u304b\u2026\u2026\u6d41\u308c\u661f\u3060\u3068\u304b\u2026\u2026\u305d\u308c\u306b\u3001\u4eca\u65e5\u8857\u306b\u5909\u306a\u683c\u597d\u3092\u3057\u305f\u9023\u4e2d\u304c\u305f\u304f\u3055\u3093\u3044\u305f\u3093\u3067\u306a\u300d"
+    "Bilbo corse per il corridoio, arrabbiatissimo, completamente smarrito e sconvolto: questo era il peggiore mercoled\u00ec di tutta la sua vita! Apr\u00ec la porta con uno strattone e caddero tutti dentro, uno sopra l'altro. Altri Nani, altri quattro! e dietro c'era Gandalf, che stava appoggiato al bastone e rideva. Aveva fatto una bella ammaccatura sulla porta, e, tra parentesi, aveva cancellato il segno segreto che vi aveva messo il mattino avanti."
    ]
   },
   {
-   "begin": "559.440",
+   "begin": "1117.800",
    "children": [],
-   "end": "559.600",
+   "end": "1117.840",
    "id": "f000104",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "559.600",
+   "begin": "1117.840",
    "children": [],
-   "end": "560.280",
+   "end": "1131.800",
    "id": "f000105",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u305d\u308c\u3067\uff1f\u300d"
+    "\u00abAttento! Attento!\u00bb disse. \u00abNon \u00e8 da te far aspettare gli amici sullo zerbino, Bilbo, e poi aprire la porta come un fulmine! Permettimi di presentarti Bifur, Bofur, Bombur e specialmente Thorin!\u00bb"
    ]
   },
   {
-   "begin": "560.280",
+   "begin": "1131.800",
    "children": [],
-   "end": "560.320",
+   "end": "1133.280",
    "id": "f000106",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "560.320",
+   "begin": "1133.280",
    "children": [],
-   "end": "566.920",
+   "end": "1178.160",
    "id": "f000107",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3044\u3084\u3001\u3061\u3087\u3063\u3068\u601d\u3063\u305f\u3060\u3051\u3060\u304c\u306d\u2026\u2026\u3082\u3057\u304b\u3057\u305f\u3089\u2026\u2026\u4f55\u304b\u304b\u304b\u308f\u308a\u304c\u3042\u308b\u304b\u3068\u2026\u2026\u305d\u306e\u3001\u306a\u3093\u3060\u2026\u2026\u3042\u308c\u306e\u4ef2\u9593\u3068\u300d"
+    "\u00abAl vostro servizio\u00bb dissero Bifur, Bofur e Bombur stando in fila. Poi appesero due cappucci gialli e uno verde pallido, e anche uno azzurro cielo con una lunga nappa d'argento. Quest'ultimo apparteneva a Thorin, un Nano estremamente importante, non altri, anzi, che il grande Thorin Scudodiquercia in persona, che non era stato contento per niente di cadere disteso sullo zerbino di Bilbo con Bifur, Bofur e Bombur sopra di lui. Tra l'altro Bombur era enormemente grasso e pesante! Thorin in realt\u00e0 era molto altero, e la parola \u00abservizio\u00bb non gli usc\u00ec affatto di bocca, ma il povero signor Baggins si scus\u00f2 tante di quelle volte che alla fine egli grugn\u00ec un \u00abdi grazia, non importa\u00bb, e spian\u00f2 il suo cipiglio."
    ]
   },
   {
-   "begin": "566.920",
+   "begin": "1178.160",
    "children": [],
-   "end": "566.960",
+   "end": "1179.720",
    "id": "f000108",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "566.960",
+   "begin": "1179.720",
    "children": [],
-   "end": "579.400",
+   "end": "1204.280",
    "id": "f000109",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5965\u3055\u3093\u306f\u53e3\u3092\u3059\u307c\u3081\u3066\u7d05\u8336\u3092\u3059\u3059\u3063\u305f\u3002\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u300c\u30dd\u30c3\u30bf\u30fc\u300d\u3068\u3044\u3046\u540d\u524d\u3092\u8033\u306b\u3057\u305f\u3068\u601d\u3044\u304d\u3063\u3066\u6253\u3061\u660e\u3051\u308b\u3079\u304d\u304b\u3069\u3046\u304b\u8ff7\u3063\u305f\u304c\u3001\u3084\u306f\u308a\u3084\u3081\u308b\u3053\u3068\u306b\u3057\u305f\u3002\u305d\u306e\u304b\u308f\u308a\u3001\u3067\u304d\u308b\u3060\u3051\u3055\u308a\u3052\u306a\u304f\u805e\u3044\u305f\u3002"
+    "\u00abAdesso ci siamo tutti!\u00bb disse Gandalf, osservando la fila di tredici cappucci (i migliori cappucci staccabili, quelli della festa) e il proprio cappello che pendevano dall'attaccapanni. \u00abUna bella compagnia davvero. Spero che ci sia ancora qualcosa da mangiare per i ritardatari! Che cosa ci sar\u00e0? T\u00e8? No, grazie tante! Per me un goccio di vino rosso, direi.\u00bb"
    ]
   },
   {
-   "begin": "579.400",
+   "begin": "1204.280",
    "children": [],
-   "end": "579.440",
+   "end": "1204.280",
    "id": "f000110",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "579.440",
+   "begin": "1204.280",
    "children": [],
-   "end": "583.560",
+   "end": "1205.880",
    "id": "f000111",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3042\u305d\u3053\u306e\u606f\u5b50\u3060\u304c\u2026\u2026\u305f\u3057\u304b\u3046\u3061\u306e\u30c0\u30c9\u30ea\u30fc\u3068\u540c\u3058\u304f\u3089\u3044\u306e\u5e74\u3058\u3083\u306a\u304b\u3063\u305f\u304b\u306d\uff1f\u300d"
+    "\u00abE anche per me\u00bb disse Thorin."
    ]
   },
   {
-   "begin": "583.560",
+   "begin": "1205.880",
    "children": [],
-   "end": "583.600",
+   "end": "1206.920",
    "id": "f000112",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "583.600",
+   "begin": "1206.920",
    "children": [],
-   "end": "584.120",
+   "end": "1209.680",
    "id": "f000113",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u305d\u3046\u304b\u3082\u300d"
+    "\u00abE marmellata di lamponi e torta di mele!\u00bb disse Bifur."
    ]
   },
   {
-   "begin": "584.120",
+   "begin": "1209.680",
    "children": [],
-   "end": "584.120",
+   "end": "1210.360",
    "id": "f000114",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "584.120",
+   "begin": "1210.360",
    "children": [],
-   "end": "586.600",
+   "end": "1212.080",
    "id": "f000115",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u4f55\u3068\u3044\u3046\u540d\u524d\u3060\u3063\u305f\u304b\u2026\u2026\u3002\u305f\u3057\u304b\u30cf\u30ef\u30fc\u30c9\u3060\u3063\u305f\u306d\u300d"
+    "\u00abE torte di frutta e formaggio!\u00bb disse Bofur."
    ]
   },
   {
-   "begin": "586.600",
+   "begin": "1212.080",
    "children": [],
-   "end": "586.640",
+   "end": "1212.880",
    "id": "f000116",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "586.640",
+   "begin": "1212.880",
    "children": [],
-   "end": "590.920",
+   "end": "1215.200",
    "id": "f000117",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u30cf\u30ea\u30fc\u3088\u3002\u79c1\u306b\u8a00\u308f\u305b\u308a\u3083\u3001\u4e0b\u54c1\u3067\u3042\u308a\u3075\u308c\u305f\u540d\u524d\u3067\u3059\u3088\u300d"
+    "\u00abE polpettone e insalata!\u00bb disse Bombur."
    ]
   },
   {
-   "begin": "590.920",
+   "begin": "1215.200",
    "children": [],
-   "end": "590.920",
+   "end": "1215.840",
    "id": "f000118",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "590.920",
+   "begin": "1215.840",
    "children": [],
-   "end": "594.040",
+   "end": "1221.680",
    "id": "f000119",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u300c\u3042\u3042\u3001\u305d\u3046\u3060\u3063\u305f\u3002\u304a\u307e\u3048\u306e\u8a00\u3046\u3068\u304a\u308a\u3060\u3088\u300d"
+    "\u00abE ancora dolci! e birra! e caff\u00e8! se non vi dispiace...\u00bb chiesero gli altri Nani attraverso la porta."
    ]
   },
   {
-   "begin": "594.040",
+   "begin": "1221.680",
    "children": [],
-   "end": "594.160",
+   "end": "1222.560",
    "id": "f000120",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "594.160",
+   "begin": "1222.560",
    "children": [],
-   "end": "600.200",
+   "end": "1232.600",
    "id": "f000121",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3059\u3063\u304b\u308a\u843d\u3061\u8fbc\u3093\u3067\u3057\u307e\u3063\u305f\u3002\u4e8c\u4eba\u3067\u4e8c\u968e\u306e\u5bdd\u5ba4\u306b\u4e0a\u304c\u3063\u3066\u3044\u304f\u6642\u3082\u3001\u5f7c\u306f\u307e\u3063\u305f\u304f\u3053\u306e\u8a71\u984c\u306b\u306f\u89e6\u308c\u306a\u304b\u3063\u305f\u3002"
+    "\u00abMetti su qualche uovo, da bravo!\u00bb gli grid\u00f2 dietro Gandalf, mentre lo Hobbit arrancava verso le dispense. \u00abE gi\u00e0 che ci sei, tira fuori il pollo freddo e i sottaceti.\u00bb"
    ]
   },
   {
-   "begin": "600.200",
+   "begin": "1232.600",
    "children": [],
-   "end": "600.240",
+   "end": "1232.600",
    "id": "f000122",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "600.240",
+   "begin": "1232.600",
    "children": [],
-   "end": "613.840",
+   "end": "1232.600",
    "id": "f000123",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u5965\u3055\u3093\u304c\u6d17\u9762\u6240\u306b\u884c\u3063\u305f\u3059\u304d\u306b\u3001\u3053\u3063\u305d\u308a\u5bdd\u5ba4\u306e\u7a93\u306b\u8fd1\u5bc4\u308a\u3001\u5bb6\u306e\u524d\u3092\u306e\u305e\u3044\u3066\u307f\u305f\u3002\u3042\u306e\u732b\u306f\u307e\u3060\u305d\u3053\u306b\u3044\u305f\u3002\u4f55\u304b\u3092\u5f85\u3063\u3066\u3044\u308b\u3088\u3046\u306b\u3001\u30d7\u30ea\u30d9\u30c3\u30c8\u901a\u308a\u306e\u5965\u306e\u65b9\u3092\u3058\u3063\u3068\u898b\u3064\u3081\u3066\u3044\u308b\u3002"
+    ""
    ]
   },
   {
-   "begin": "613.840",
+   "begin": "1232.600",
    "children": [],
-   "end": "613.880",
+   "end": "1232.600",
    "id": "f000124",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "613.880",
+   "begin": "1232.600",
    "children": [],
-   "end": "631.880",
+   "end": "1232.600",
    "id": "f000125",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u3053\u308c\u3082\u81ea\u5206\u306e\u5e7b\u60f3\u306a\u306e\u304b\uff1f\u3000\u3053\u308c\u307e\u3067\u306e\u3053\u3068\u306f\u4f55\u3082\u304b\u3082\u30dd\u30c3\u30bf\u30fc\u4e00\u5bb6\u3068\u304b\u304b\u308f\u308a\u304c\u3042\u308b\u306e\u3060\u308d\u3046\u304b\uff1f\u3000\u3082\u3057\u305d\u3046\u306a\u3089\u2026\u2026\u3082\u3057\u81ea\u5206\u305f\u3061\u304c\u3042\u3093\u306a\u592b\u5a66\u3068\u95a2\u4fc2\u304c\u3042\u308b\u306a\u3093\u3066\u3053\u3068\u304c\u660e\u308b\u307f\u306b\u51fa\u305f\u3089\u2026\u2026\u3042\u3042\u3001\u305d\u3093\u306a\u3053\u3068\u306b\u306f\u8010\u3048\u3089\u308c\u306a\u3044\u3002"
+    ""
    ]
   },
   {
-   "begin": "631.880",
+   "begin": "1232.600",
    "children": [],
-   "end": "631.880",
+   "end": "1234.520",
    "id": "f000126",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "631.880",
+   "begin": "1234.520",
    "children": [],
-   "end": "640.280",
+   "end": "1258.520",
    "id": "f000127",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u30d9\u30c3\u30c9\u306b\u5165\u308b\u3068\u3001\u5965\u3055\u3093\u306f\u3059\u3050\u306b\u5bdd\u5165\u3063\u3066\u3057\u307e\u3063\u305f\u304c\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u3042\u308c\u3053\u308c\u8003\u3048\u3066\u5bdd\u3064\u3051\u306a\u304b\u3063\u305f\u3002"
+    "\u00abSembra che sappia meglio di me che cos'ho in dispensa!\u00bb pens\u00f2 il signor Baggins, che si sentiva completamente a terra e cominciava a domandarsi se la pi\u00f9 sciagurata delle avventure non gli fosse piombata addirittura in casa. Quando finalmente riusc\u00ec ad ammucchiare su grossi vassoi tutte le bottiglie, i piatti, i bicchieri, i cucchiai, le scodelle, e chi pi\u00f9 ne ha pi\u00f9 ne metta, era diventato tutto accaldato, rosso in faccia e molto seccato."
    ]
   },
   {
-   "begin": "640.280",
+   "begin": "1258.520",
    "children": [],
-   "end": "640.360",
+   "end": "1260.240",
    "id": "f000128",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "640.360",
+   "begin": "1260.240",
    "children": [],
-   "end": "656.960",
+   "end": "1279.440",
    "id": "f000129",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u3057\u304b\u3057\u3001\u4e07\u3005\u304c\u4e00\u30dd\u30c3\u30bf\u30fc\u305f\u3061\u304c\u304b\u304b\u308f\u3063\u3066\u3044\u305f\u306b\u305b\u3088\u3001\u3042\u306e\u9023\u4e2d\u304c\u81ea\u5206\u305f\u3061\u306e\u8fd1\u304f\u306b\u3084\u3063\u3066\u304f\u308b\u306f\u305a\u304c\u306a\u3044\u3002\u3042\u306e\u4e8c\u4eba\u3084\u3042\u306e\u9023\u4e2d\u306e\u3053\u3068\u3092\u308f\u3057\u3089\u304c\u3069\u3046\u601d\u3063\u3066\u3044\u308b\u304b\u30dd\u30c3\u30bf\u30fc\u592b\u59bb\u306f\u77e5\u3063\u3066\u3044\u308b\u306f\u305a\u3060\u2026\u2026\u4f55\u304c\u8d77\u3053\u3063\u3066\u3044\u308b\u304b\u306f\u77e5\u3089\u3093\u304c\u3001\u308f\u3057\u3084\u30da\u30c1\u30e5\u30cb\u30a2\u304c\u304b\u304b\u308f\u308a\u5408\u3044\u306b\u306a\u308b\u3053\u3068\u306a\u3069\u3042\u308a\u5f97\u306a\u3044\u2015\u2015\u305d\u3046\u601d\u3046\u3068\u5c11\u3057\u30db\u30c3\u3068\u3057\u3066\u3001\u30c0\u30fc\u30ba\u30ea\u30fc\u6c0f\u306f\u6b20\u4f38\u3092\u3057\u3066\u5bdd\u8fd4\u308a\u3092\u6253\u3063\u305f\u3002"
+    "\u00abVadano a morire ammazzati tutti quanti, questi Nani!\u00bb disse ad alta voce. \u00abPerch\u00e9 non vengono a darmi una mano?\u00bb Detto fatto! Ecco l\u00ec Balin e Dwalin sulla porta della cucina, e Fili e Kili dietro di loro, e prima che Bilbo potesse dire ba avevano fatto sparire nel salotto i vassoi e un paio di tavolinetti, e disposto bellamente ogni cosa."
    ]
   },
   {
-   "begin": "656.960",
+   "begin": "1279.440",
    "children": [],
-   "end": "657.000",
+   "end": "1281.440",
    "id": "f000130",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "657.000",
+   "begin": "1281.440",
    "children": [],
-   "end": "660.320",
+   "end": "1311.000",
    "id": "f000131",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u308f\u3057\u3089\u306b\u304b\u304e\u3063\u3066\u3001\u7d76\u5bfe\u306b\u304b\u304b\u308f\u308a\u5408\u3046\u3053\u3068\u306f\u306a\u3044\u2026\u2026\u3002"
+    "Gandalf sedeva a capotavola coi tredici Nani tutt'intorno a lui: e Bilbo sedeva su una seggiolina vicino al caminetto, mordicchiando un biscotto (l'appetito gli era quasi completamente passato), e cercando di fingere che tutto fosse perfettamente a posto e niente affatto un'avventura. I Nani mangiavano e mangiavano, parlavano e parlavano, e il tempo passava. Alla fine spinsero indietro le sedie e Bilbo si mosse per raccogliere piatti e bicchieri."
    ]
   },
   {
-   "begin": "660.320",
+   "begin": "1311.000",
    "children": [],
-   "end": "660.320",
+   "end": "1311.040",
    "id": "f000132",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
     ""
    ]
   },
   {
-   "begin": "660.320",
+   "begin": "1311.040",
    "children": [],
-   "end": "662.200",
+   "end": "1316.360",
    "id": "f000133",
-   "language": "jpn",
+   "language": "ita",
    "lines": [
-    "\u2015\u2015\u4f55\u3068\u3044\u3046\u898b\u5f53\u3061\u304c\u3044\u2015\u2015"
+    "\u00abImmagino che vi tratteniate a cena...\u00bb disse col tono di voce pi\u00f9 educato e inespressivo."
+   ]
+  },
+  {
+   "begin": "1316.360",
+   "children": [],
+   "end": "1316.360",
+   "id": "f000134",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1316.360",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000135",
+   "language": "ita",
+   "lines": [
+    "\u00abMa naturale!\u00bb disse Thorin. \u00abE anche dopo. Non risolveremo la faccenda fino a tardi e dobbiamo prima fare un po' di musica. Adesso... sparecchiare!\u00bb"
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000136",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1355.320",
+   "id": "f000137",
+   "language": "ita",
+   "lines": [
+    "Al che i dodici Nani - non Thorin, che era troppo importante e rimase a parlare con Gandalf - balzarono in piedi e ammucchiarono ogni cosa in alte pile. Senza aspettare i vassoi, se ne uscirono tenendo in equilibrio con una mano sola colonne di piatti, ognuna con una bottiglia in cima, mentre lo Hobbit correva dietro di loro quasi squittendo per la paura: \u00abPer piacere, fate attenzione!\u00bb, e \u00abPer piacere, non vi disturbate! Posso fare da solo!\u00bb. Ma per tutta risposta i Nani cominciarono a cantare:"
+   ]
+  },
+  {
+   "begin": "1355.320",
+   "children": [],
+   "end": "1355.320",
+   "id": "f000138",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1355.320",
+   "children": [],
+   "end": "1355.320",
+   "id": "f000139",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1355.320",
+   "children": [],
+   "end": "1357.040",
+   "id": "f000140",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1357.040",
+   "children": [],
+   "end": "1358.880",
+   "id": "f000141",
+   "language": "ita",
+   "lines": [
+    "Scheggia le coppe, sbriciola i piatti!"
+   ]
+  },
+  {
+   "begin": "1358.880",
+   "children": [],
+   "end": "1358.880",
+   "id": "f000142",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1358.880",
+   "children": [],
+   "end": "1360.920",
+   "id": "f000143",
+   "language": "ita",
+   "lines": [
+    "Lame e forchette torci non poco!"
+   ]
+  },
+  {
+   "begin": "1360.920",
+   "children": [],
+   "end": "1361.160",
+   "id": "f000144",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1361.160",
+   "children": [],
+   "end": "1362.880",
+   "id": "f000145",
+   "language": "ita",
+   "lines": [
+    "Ci\u00f2 Bilbo Baggins odia da matti."
+   ]
+  },
+  {
+   "begin": "1362.880",
+   "children": [],
+   "end": "1362.920",
+   "id": "f000146",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1362.920",
+   "children": [],
+   "end": "1365.200",
+   "id": "f000147",
+   "language": "ita",
+   "lines": [
+    "Spacca bottiglie, da' i tappi al fuoco!"
+   ]
+  },
+  {
+   "begin": "1365.200",
+   "children": [],
+   "end": "1365.200",
+   "id": "f000148",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1365.200",
+   "children": [],
+   "end": "1365.200",
+   "id": "f000149",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1365.200",
+   "children": [],
+   "end": "1365.760",
+   "id": "f000150",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1365.760",
+   "children": [],
+   "end": "1367.800",
+   "id": "f000151",
+   "language": "ita",
+   "lines": [
+    "Strappa tovaglie, sul grasso salta!"
+   ]
+  },
+  {
+   "begin": "1367.800",
+   "children": [],
+   "end": "1367.800",
+   "id": "f000152",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1367.800",
+   "children": [],
+   "end": "1369.680",
+   "id": "f000153",
+   "language": "ita",
+   "lines": [
+    "Riversa il latte nel ripostiglio!"
+   ]
+  },
+  {
+   "begin": "1369.680",
+   "children": [],
+   "end": "1369.800",
+   "id": "f000154",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1369.800",
+   "children": [],
+   "end": "1371.600",
+   "id": "f000155",
+   "language": "ita",
+   "lines": [
+    "A pi\u00e8 del letto tutto ribalta!"
+   ]
+  },
+  {
+   "begin": "1371.600",
+   "children": [],
+   "end": "1371.600",
+   "id": "f000156",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1371.600",
+   "children": [],
+   "end": "1373.640",
+   "id": "f000157",
+   "language": "ita",
+   "lines": [
+    "L'uscio di vino spruzza vermiglio!"
+   ]
+  },
+  {
+   "begin": "1373.640",
+   "children": [],
+   "end": "1373.640",
+   "id": "f000158",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1373.640",
+   "children": [],
+   "end": "1373.640",
+   "id": "f000159",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1373.640",
+   "children": [],
+   "end": "1374.240",
+   "id": "f000160",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1374.240",
+   "children": [],
+   "end": "1376.280",
+   "id": "f000161",
+   "language": "ita",
+   "lines": [
+    "Getta stoviglie nell'acqua che scotta,"
+   ]
+  },
+  {
+   "begin": "1376.280",
+   "children": [],
+   "end": "1376.280",
+   "id": "f000162",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1376.280",
+   "children": [],
+   "end": "1378.400",
+   "id": "f000163",
+   "language": "ita",
+   "lines": [
+    "Col gran pestello tritale bene;"
+   ]
+  },
+  {
+   "begin": "1378.400",
+   "children": [],
+   "end": "1378.480",
+   "id": "f000164",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1378.480",
+   "children": [],
+   "end": "1380.120",
+   "id": "f000165",
+   "language": "ita",
+   "lines": [
+    "e se qualcuna resta non rotta"
+   ]
+  },
+  {
+   "begin": "1380.120",
+   "children": [],
+   "end": "1380.120",
+   "id": "f000166",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1380.120",
+   "children": [],
+   "end": "1382.320",
+   "id": "f000167",
+   "language": "ita",
+   "lines": [
+    "buttarla in terra tosto conviene!"
+   ]
+  },
+  {
+   "begin": "1382.320",
+   "children": [],
+   "end": "1382.320",
+   "id": "f000168",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1382.320",
+   "children": [],
+   "end": "1382.320",
+   "id": "f000169",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1382.320",
+   "children": [],
+   "end": "1382.840",
+   "id": "f000170",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1382.840",
+   "children": [],
+   "end": "1384.600",
+   "id": "f000171",
+   "language": "ita",
+   "lines": [
+    "Ci\u00f2 Bilbo Baggins odia da matti!"
+   ]
+  },
+  {
+   "begin": "1384.600",
+   "children": [],
+   "end": "1384.640",
+   "id": "f000172",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1384.640",
+   "children": [],
+   "end": "1386.520",
+   "id": "f000173",
+   "language": "ita",
+   "lines": [
+    "Attento dunque tu con quei piatti!"
+   ]
+  },
+  {
+   "begin": "1386.520",
+   "children": [],
+   "end": "1386.520",
+   "id": "f000174",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1386.520",
+   "children": [],
+   "end": "1386.520",
+   "id": "f000175",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1386.520",
+   "children": [],
+   "end": "1388.520",
+   "id": "f000176",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1388.520",
+   "children": [],
+   "end": "1457.520",
+   "id": "f000177",
+   "language": "ita",
+   "lines": [
+    "Naturalmente non fecero nessuna di queste cose orribili, e pulirono e riposero ogni cosa sana e salva, mentre lo Hobbit girava e rigirava in mezzo alla cucina cercando di vedere che cosa stessero facendo. Poi tornarono indietro, e trovarono Thorin che fumava la pipa coi piedi sul parafuoco. Faceva anelli di fumo assolutamente enormi, che andavan dovunque egli diceva loro di andare - su per la cappa del camino, dietro l'orologio sopra la mensola, o sotto la tavola, o attorno al soffitto: ma dovunque l'anello di fumo andasse non era mai abbastanza veloce da sfuggire a Gandalf. Pop! Dalla sua corta pipa di terracotta egli spediva un anello di fumo pi\u00f9 piccolo esattamente attraverso ciascuno di quelli di Thorin. Poi l'anello di fumo di Gandalf diventava verde e tornava indietro a librarsi sopra la testa dello stregone. Ce n'era gi\u00e0 una nuvola attorno a lui, che gli dava un aspetto strano e stregonesco, nella penombra. Bilbo rimase fermo a guardare - gli piacevano molto gli anelli di fumo - e poi arross\u00ec al pensiero di quanto si fosse sentito fiero degli anelli di fumo che aveva fatto salire nel vento sopra la Collina, il mattino avanti."
+   ]
+  },
+  {
+   "begin": "1457.520",
+   "children": [],
+   "end": "1459.120",
+   "id": "f000178",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1459.120",
+   "children": [],
+   "end": "1463.200",
+   "id": "f000179",
+   "language": "ita",
+   "lines": [
+    "\u00abE adesso un po' di musica!\u00bb disse Thorin. \u00abTirate fuori gli strumenti!\u00bb"
+   ]
+  },
+  {
+   "begin": "1463.200",
+   "children": [],
+   "end": "1463.200",
+   "id": "f000180",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1463.200",
+   "children": [],
+   "end": "1516.120",
+   "id": "f000181",
+   "language": "ita",
+   "lines": [
+    "Kili e Fili si precipitarono a prendere le borse e riportarono con loro dei piccoli violini; dall'interno dei loro mantelli, Dori, Nori e Ori tirarono fuori dei flauti; Bombur esib\u00ec un tamburo che era nell'ingresso; anche Bifur e Bofur uscirono e tornarono con dei clarinetti che avevano lasciato nel portaombrelli. Dwalin e Balin dissero: \u00abScusate! ho lasciato il mio strumento nel portico!\u00bb. \u00abGi\u00e0 che ci siete, portate dentro anche il mio!\u00bb disse Thorin. Ritornarono con delle viole grosse quanto loro, e con l'arpa di Thorin avvolta in un panno verde. Era una bella arpa d'oro, e quando Thorin la sfior\u00f2, la musica che si sprigion\u00f2 all'istante fu cos\u00ec improvvisa e dolce che Bilbo dimentic\u00f2 qualsiasi altra cosa, e fu trascinato via in terre oscure sotto lune sconosciute, di l\u00e0 dall'Acqua e assai lontano dalla sua casetta sotto la Collina."
+   ]
+  },
+  {
+   "begin": "1516.120",
+   "children": [],
+   "end": "1518.680",
+   "id": "f000182",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1518.680",
+   "children": [],
+   "end": "1530.520",
+   "id": "f000183",
+   "language": "ita",
+   "lines": [
+    "Il buio entrava nella stanza attraverso la finestrella che dava sulla Collina; la luce della fiamma vacillava - era aprile - ed essi sonavano ancora mentre l'ombra della barba di Gandalf si moveva ritmicamente contro il muro."
+   ]
+  },
+  {
+   "begin": "1530.520",
+   "children": [],
+   "end": "1532.200",
+   "id": "f000184",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1532.200",
+   "children": [],
+   "end": "1554.640",
+   "id": "f000185",
+   "language": "ita",
+   "lines": [
+    "Il buio aveva invaso tutta la stanza; il fuoco moriva lentamente, le ombre si smarrivano ed essi sonavano ancora. E d'un tratto, mentre sonavano, presero a cantare l'uno dopo l'altro: un canto roco di Nani che sembrava salire dai recessi delle loro antiche case; e questo \u00e8 come un frammento della loro canzone, se canzone pu\u00f2 esserci senza musica alcuna."
+   ]
+  },
+  {
+   "begin": "1554.640",
+   "children": [],
+   "end": "1554.640",
+   "id": "f000186",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1554.640",
+   "children": [],
+   "end": "1554.640",
+   "id": "f000187",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1554.640",
+   "children": [],
+   "end": "1554.640",
+   "id": "f000188",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1554.640",
+   "children": [],
+   "end": "1558.880",
+   "id": "f000189",
+   "language": "ita",
+   "lines": [
+    "Lontan sui monti fumidi e gelati"
+   ]
+  },
+  {
+   "begin": "1558.880",
+   "children": [],
+   "end": "1558.920",
+   "id": "f000190",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1558.920",
+   "children": [],
+   "end": "1561.160",
+   "id": "f000191",
+   "language": "ita",
+   "lines": [
+    "in antri fondi, oscuri, desolati,"
+   ]
+  },
+  {
+   "begin": "1561.160",
+   "children": [],
+   "end": "1561.240",
+   "id": "f000192",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1561.240",
+   "children": [],
+   "end": "1563.840",
+   "id": "f000193",
+   "language": "ita",
+   "lines": [
+    "prima che sorga il sol dobbiamo andare"
+   ]
+  },
+  {
+   "begin": "1563.840",
+   "children": [],
+   "end": "1563.840",
+   "id": "f000194",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1563.840",
+   "children": [],
+   "end": "1565.880",
+   "id": "f000195",
+   "language": "ita",
+   "lines": [
+    "i pallidi a cercar ori incantati."
+   ]
+  },
+  {
+   "begin": "1565.880",
+   "children": [],
+   "end": "1565.880",
+   "id": "f000196",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1565.880",
+   "children": [],
+   "end": "1566.720",
+   "id": "f000197",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1566.720",
+   "children": [],
+   "end": "1566.720",
+   "id": "f000198",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1566.720",
+   "children": [],
+   "end": "1569.240",
+   "id": "f000199",
+   "language": "ita",
+   "lines": [
+    "Faceano i Nani un d\u00ec magiche gesta,"
+   ]
+  },
+  {
+   "begin": "1569.240",
+   "children": [],
+   "end": "1569.560",
+   "id": "f000200",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1569.560",
+   "children": [],
+   "end": "1571.840",
+   "id": "f000201",
+   "language": "ita",
+   "lines": [
+    "battendo mazze qual campane a festa"
+   ]
+  },
+  {
+   "begin": "1571.840",
+   "children": [],
+   "end": "1571.840",
+   "id": "f000202",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1571.840",
+   "children": [],
+   "end": "1574.640",
+   "id": "f000203",
+   "language": "ita",
+   "lines": [
+    "dove dorme laggi\u00f9 tetro un mistero"
+   ]
+  },
+  {
+   "begin": "1574.640",
+   "children": [],
+   "end": "1574.640",
+   "id": "f000204",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1574.640",
+   "children": [],
+   "end": "1576.720",
+   "id": "f000205",
+   "language": "ita",
+   "lines": [
+    "negli antri sotto la rocciosa cresta."
+   ]
+  },
+  {
+   "begin": "1576.720",
+   "children": [],
+   "end": "1576.720",
+   "id": "f000206",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1576.720",
+   "children": [],
+   "end": "1576.720",
+   "id": "f000207",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1576.720",
+   "children": [],
+   "end": "1576.720",
+   "id": "f000208",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1576.720",
+   "children": [],
+   "end": "1580.440",
+   "id": "f000209",
+   "language": "ita",
+   "lines": [
+    "Per prenci antichi degli Elfi signori,"
+   ]
+  },
+  {
+   "begin": "1580.440",
+   "children": [],
+   "end": "1580.560",
+   "id": "f000210",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1580.560",
+   "children": [],
+   "end": "1582.360",
+   "id": "f000211",
+   "language": "ita",
+   "lines": [
+    "gli accumulati e balenanti ori"
+   ]
+  },
+  {
+   "begin": "1582.360",
+   "children": [],
+   "end": "1582.400",
+   "id": "f000212",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1582.400",
+   "children": [],
+   "end": "1584.880",
+   "id": "f000213",
+   "language": "ita",
+   "lines": [
+    "lavoravano ad arte, il d\u00ec ghermendo"
+   ]
+  },
+  {
+   "begin": "1584.880",
+   "children": [],
+   "end": "1584.880",
+   "id": "f000214",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1584.880",
+   "children": [],
+   "end": "1587.160",
+   "id": "f000215",
+   "language": "ita",
+   "lines": [
+    "per dare a gemme d'elsa altri splendori."
+   ]
+  },
+  {
+   "begin": "1587.160",
+   "children": [],
+   "end": "1587.160",
+   "id": "f000216",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1587.160",
+   "children": [],
+   "end": "1587.160",
+   "id": "f000217",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1587.160",
+   "children": [],
+   "end": "1588.400",
+   "id": "f000218",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1588.400",
+   "children": [],
+   "end": "1590.120",
+   "id": "f000219",
+   "language": "ita",
+   "lines": [
+    "Trapuntavan di stelle le collane"
+   ]
+  },
+  {
+   "begin": "1590.120",
+   "children": [],
+   "end": "1590.160",
+   "id": "f000220",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1590.160",
+   "children": [],
+   "end": "1592.560",
+   "id": "f000221",
+   "language": "ita",
+   "lines": [
+    "i serti con baglior di drago immane,"
+   ]
+  },
+  {
+   "begin": "1592.560",
+   "children": [],
+   "end": "1592.560",
+   "id": "f000222",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1592.560",
+   "children": [],
+   "end": "1595.360",
+   "id": "f000223",
+   "language": "ita",
+   "lines": [
+    "poi in ritorto fil di sole e luna"
+   ]
+  },
+  {
+   "begin": "1595.360",
+   "children": [],
+   "end": "1595.360",
+   "id": "f000224",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1595.360",
+   "children": [],
+   "end": "1597.320",
+   "id": "f000225",
+   "language": "ita",
+   "lines": [
+    "intessevan le luci in filigrane."
+   ]
+  },
+  {
+   "begin": "1597.320",
+   "children": [],
+   "end": "1597.320",
+   "id": "f000226",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1597.320",
+   "children": [],
+   "end": "1597.320",
+   "id": "f000227",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1597.320",
+   "children": [],
+   "end": "1598.640",
+   "id": "f000228",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1598.640",
+   "children": [],
+   "end": "1600.640",
+   "id": "f000229",
+   "language": "ita",
+   "lines": [
+    "Lontan sui monti fumidi e gelati"
+   ]
+  },
+  {
+   "begin": "1600.640",
+   "children": [],
+   "end": "1600.680",
+   "id": "f000230",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1600.680",
+   "children": [],
+   "end": "1603.000",
+   "id": "f000231",
+   "language": "ita",
+   "lines": [
+    "in antri fondi, oscuri desolati,"
+   ]
+  },
+  {
+   "begin": "1603.000",
+   "children": [],
+   "end": "1603.240",
+   "id": "f000232",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1603.240",
+   "children": [],
+   "end": "1605.320",
+   "id": "f000233",
+   "language": "ita",
+   "lines": [
+    "prima che sorga il sol dobbiamo andare"
+   ]
+  },
+  {
+   "begin": "1605.320",
+   "children": [],
+   "end": "1605.720",
+   "id": "f000234",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1605.720",
+   "children": [],
+   "end": "1607.520",
+   "id": "f000235",
+   "language": "ita",
+   "lines": [
+    "per esigere i nostri ori obliati."
+   ]
+  },
+  {
+   "begin": "1607.520",
+   "children": [],
+   "end": "1607.520",
+   "id": "f000236",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1607.520",
+   "children": [],
+   "end": "1607.520",
+   "id": "f000237",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1607.520",
+   "children": [],
+   "end": "1607.520",
+   "id": "f000238",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1607.520",
+   "children": [],
+   "end": "1610.840",
+   "id": "f000239",
+   "language": "ita",
+   "lines": [
+    "Calici e arpe cesellavan d'oro"
+   ]
+  },
+  {
+   "begin": "1610.840",
+   "children": [],
+   "end": "1611.160",
+   "id": "f000240",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1611.160",
+   "children": [],
+   "end": "1613.120",
+   "id": "f000241",
+   "language": "ita",
+   "lines": [
+    "e dove gli Uomini non scavan, loro"
+   ]
+  },
+  {
+   "begin": "1613.120",
+   "children": [],
+   "end": "1613.120",
+   "id": "f000242",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1613.120",
+   "children": [],
+   "end": "1615.160",
+   "id": "f000243",
+   "language": "ita",
+   "lines": [
+    "vissero a lungo, ma dei lieti canti"
+   ]
+  },
+  {
+   "begin": "1615.160",
+   "children": [],
+   "end": "1615.160",
+   "id": "f000244",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1615.160",
+   "children": [],
+   "end": "1617.400",
+   "id": "f000245",
+   "language": "ita",
+   "lines": [
+    "n\u00e9 Uom n\u00e9 Elfo sent\u00ec mai il coro."
+   ]
+  },
+  {
+   "begin": "1617.400",
+   "children": [],
+   "end": "1617.400",
+   "id": "f000246",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1617.400",
+   "children": [],
+   "end": "1617.400",
+   "id": "f000247",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1617.400",
+   "children": [],
+   "end": "1619.360",
+   "id": "f000248",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1619.360",
+   "children": [],
+   "end": "1621.640",
+   "id": "f000249",
+   "language": "ita",
+   "lines": [
+    "I pini sulle alture eran ruggenti,"
+   ]
+  },
+  {
+   "begin": "1621.640",
+   "children": [],
+   "end": "1621.680",
+   "id": "f000250",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1621.680",
+   "children": [],
+   "end": "1623.560",
+   "id": "f000251",
+   "language": "ita",
+   "lines": [
+    "alti gemevan nella notte i venti."
+   ]
+  },
+  {
+   "begin": "1623.560",
+   "children": [],
+   "end": "1623.840",
+   "id": "f000252",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1623.840",
+   "children": [],
+   "end": "1626.160",
+   "id": "f000253",
+   "language": "ita",
+   "lines": [
+    "Rosso era il fuoco e distruggeva tutto,"
+   ]
+  },
+  {
+   "begin": "1626.160",
+   "children": [],
+   "end": "1626.240",
+   "id": "f000254",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1626.240",
+   "children": [],
+   "end": "1628.600",
+   "id": "f000255",
+   "language": "ita",
+   "lines": [
+    "gli alberi come torce eran splendenti."
+   ]
+  },
+  {
+   "begin": "1628.600",
+   "children": [],
+   "end": "1628.640",
+   "id": "f000256",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1628.640",
+   "children": [],
+   "end": "1628.640",
+   "id": "f000257",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1628.640",
+   "children": [],
+   "end": "1629.960",
+   "id": "f000258",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1629.960",
+   "children": [],
+   "end": "1631.880",
+   "id": "f000259",
+   "language": "ita",
+   "lines": [
+    "Le campane s'udivan per la vallata"
+   ]
+  },
+  {
+   "begin": "1631.880",
+   "children": [],
+   "end": "1631.960",
+   "id": "f000260",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1631.960",
+   "children": [],
+   "end": "1633.880",
+   "id": "f000261",
+   "language": "ita",
+   "lines": [
+    "e la faccia d'ognuno era sbiancata;"
+   ]
+  },
+  {
+   "begin": "1633.880",
+   "children": [],
+   "end": "1633.920",
+   "id": "f000262",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1633.920",
+   "children": [],
+   "end": "1636.080",
+   "id": "f000263",
+   "language": "ita",
+   "lines": [
+    "del fuoco pi\u00f9 crudel, l'ira del drago"
+   ]
+  },
+  {
+   "begin": "1636.080",
+   "children": [],
+   "end": "1636.080",
+   "id": "f000264",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1636.080",
+   "children": [],
+   "end": "1638.440",
+   "id": "f000265",
+   "language": "ita",
+   "lines": [
+    "distrusse torri e case all'impazzata."
+   ]
+  },
+  {
+   "begin": "1638.440",
+   "children": [],
+   "end": "1638.440",
+   "id": "f000266",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1638.440",
+   "children": [],
+   "end": "1638.440",
+   "id": "f000267",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1638.440",
+   "children": [],
+   "end": "1640.040",
+   "id": "f000268",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1640.040",
+   "children": [],
+   "end": "1642.240",
+   "id": "f000269",
+   "language": "ita",
+   "lines": [
+    "Fumava il monte nel chiaror lunare;"
+   ]
+  },
+  {
+   "begin": "1642.240",
+   "children": [],
+   "end": "1642.280",
+   "id": "f000270",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1642.280",
+   "children": [],
+   "end": "1644.440",
+   "id": "f000271",
+   "language": "ita",
+   "lines": [
+    "i Nani udir la morte ecco avanzare."
+   ]
+  },
+  {
+   "begin": "1644.440",
+   "children": [],
+   "end": "1644.440",
+   "id": "f000272",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1644.440",
+   "children": [],
+   "end": "1646.720",
+   "id": "f000273",
+   "language": "ita",
+   "lines": [
+    "La casa abbandonarono, morendo"
+   ]
+  },
+  {
+   "begin": "1646.720",
+   "children": [],
+   "end": "1646.760",
+   "id": "f000274",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1646.760",
+   "children": [],
+   "end": "1649.120",
+   "id": "f000275",
+   "language": "ita",
+   "lines": [
+    "di sotto il drago nel chiaror lunare."
+   ]
+  },
+  {
+   "begin": "1649.120",
+   "children": [],
+   "end": "1649.120",
+   "id": "f000276",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1649.120",
+   "children": [],
+   "end": "1649.120",
+   "id": "f000277",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1649.120",
+   "children": [],
+   "end": "1650.440",
+   "id": "f000278",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1650.440",
+   "children": [],
+   "end": "1652.360",
+   "id": "f000279",
+   "language": "ita",
+   "lines": [
+    "Lontan sui monti fumidi e gelati"
+   ]
+  },
+  {
+   "begin": "1652.360",
+   "children": [],
+   "end": "1652.400",
+   "id": "f000280",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1652.400",
+   "children": [],
+   "end": "1654.520",
+   "id": "f000281",
+   "language": "ita",
+   "lines": [
+    "in antri fondi, oscuri, desolati,"
+   ]
+  },
+  {
+   "begin": "1654.520",
+   "children": [],
+   "end": "1654.520",
+   "id": "f000282",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1654.520",
+   "children": [],
+   "end": "1656.880",
+   "id": "f000283",
+   "language": "ita",
+   "lines": [
+    "prima che sorga il sol dobbiamo andare"
+   ]
+  },
+  {
+   "begin": "1656.880",
+   "children": [],
+   "end": "1656.880",
+   "id": "f000284",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1656.880",
+   "children": [],
+   "end": "1659.720",
+   "id": "f000285",
+   "language": "ita",
+   "lines": [
+    "a riaver l'arpe e l'oro a noi strappati."
+   ]
+  },
+  {
+   "begin": "1659.720",
+   "children": [],
+   "end": "1659.720",
+   "id": "f000286",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1659.720",
+   "children": [],
+   "end": "1659.720",
+   "id": "f000287",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1659.720",
+   "children": [],
+   "end": "1662.440",
+   "id": "f000288",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1662.440",
+   "children": [],
+   "end": "1719.280",
+   "id": "f000289",
+   "language": "ita",
+   "lines": [
+    "Mentre cantavano, lo Hobbit sent\u00ec vibrare in s\u00e9 l'amore per le belle cose fatte con le proprie mani, con abilit\u00e0 e magia, un amore fiero e geloso, il desiderio dei cuori dei Nani. Allora qualcosa che gli veniva dai Tuc si risvegli\u00f2 in lui, e desider\u00f2 di andare a vedere le grandi montagne, udire i pini e le cascate, esplorare le grotte e impugnare la spada al posto del bastone da passeggio. Guard\u00f2 fuori della finestra. Le stelle erano apparse in un cielo buio al di sopra degli alberi. Pens\u00f2 ai gioielli dei Nani che scintillavano in caverne buie. Improvvisamente nel bosco di l\u00e0 dall'Acqua palpit\u00f2 una fiamma - probabilmente qualcuno che accendeva un fuoco di legna - ed egli pens\u00f2 a draghi predatori che venivano a installarsi sulla sua quieta Collina e ad appiccare il fuoco dappertutto. Rabbrivid\u00ec: e in men che non si dica era tornato a essere il posato signor Baggins di Casa Baggins, Vicolo Cieco, Sottocolle."
+   ]
+  },
+  {
+   "begin": "1719.280",
+   "children": [],
+   "end": "1721.000",
+   "id": "f000290",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1721.000",
+   "children": [],
+   "end": "1743.280",
+   "id": "f000291",
+   "language": "ita",
+   "lines": [
+    "Si alz\u00f2 tremando. Aveva meno di una mezza idea di andare a prendere una lampada, e pi\u00f9 di una mezza idea di far solo finta, e di andare invece a nascondersi in cantina dietro i barili di birra, per non tornare pi\u00f9 finch\u00e9 tutti i Nani non se ne fossero andati. Improvvisamente si rese conto che la musica e il canto si erano interrotti, e che tutti lo stavano guardando con occhi scintillanti nel buio."
+   ]
+  },
+  {
+   "begin": "1743.280",
+   "children": [],
+   "end": "1745.240",
+   "id": "f000292",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1745.240",
+   "children": [],
+   "end": "1751.560",
+   "id": "f000293",
+   "language": "ita",
+   "lines": [
+    "\u00abDove stai andando?\u00bb disse Thorin, con un tono che sembrava mostrare che aveva intuito entrambe le mezze idee dello Hobbit."
+   ]
+  },
+  {
+   "begin": "1751.560",
+   "children": [],
+   "end": "1753.200",
+   "id": "f000294",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1753.200",
+   "children": [],
+   "end": "1757.560",
+   "id": "f000295",
+   "language": "ita",
+   "lines": [
+    "\u00abChe ne pensate di un po' di luce?\u00bb disse Bilbo in tono di scusa."
+   ]
+  },
+  {
+   "begin": "1757.560",
+   "children": [],
+   "end": "1757.560",
+   "id": "f000296",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1757.560",
+   "children": [],
+   "end": "1763.560",
+   "id": "f000297",
+   "language": "ita",
+   "lines": [
+    "\u00abL'oscurit\u00e0 ci piace!\u00bb dissero tutti i Nani. \u00abOscurit\u00e0 per affari oscuri! Mancano molte ore all'alba!\u00bb"
+   ]
+  },
+  {
+   "begin": "1763.560",
+   "children": [],
+   "end": "1764.880",
+   "id": "f000298",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1764.880",
+   "children": [],
+   "end": "1776.120",
+   "id": "f000299",
+   "language": "ita",
+   "lines": [
+    "\u00abMa certo!\u00bb disse Bilbo, e si sedette in fretta. Manc\u00f2 lo sgabello e si sedette sul parafuoco, urtando con gran fracasso la paletta e l'attizzatoio."
+   ]
+  },
+  {
+   "begin": "1776.120",
+   "children": [],
+   "end": "1776.160",
+   "id": "f000300",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1776.160",
+   "children": [],
+   "end": "1781.560",
+   "id": "f000301",
+   "language": "ita",
+   "lines": [
+    "\u00abSsst!\u00bb disse Gandalf. \u00abChe Thorin parli.\u00bb E Thorin cominci\u00f2 cos\u00ec."
+   ]
+  },
+  {
+   "begin": "1781.560",
+   "children": [],
+   "end": "1783.360",
+   "id": "f000302",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1783.360",
+   "children": [],
+   "end": "1814.240",
+   "id": "f000303",
+   "language": "ita",
+   "lines": [
+    "\u00abGandalf, Nani e signor Baggins! Ci siamo riuniti nella casa del nostro amico e compagno cospiratore, questo eccellentissimo e audacissimo Hobbit - voglia il cielo che i peli dei suoi piedi non cadano mai! lode grandissima al suo vino e alla sua birra!...\u00bb Qui fece una pausa per riprender fiato e per un'educata replica dello Hobbit, ma i complimenti eran del tutto sprecati col povero Bilbo Baggins che boccheggiava tentando di protestare contro l'esser chiamato audace e peggio che mai compagno cospiratore, pur non riuscendo a produrre alcun suono, tanto era abbattuto."
+   ]
+  },
+  {
+   "begin": "1814.240",
+   "children": [],
+   "end": "1814.240",
+   "id": "f000304",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1814.240",
+   "children": [],
+   "end": "1855.480",
+   "id": "f000305",
+   "language": "ita",
+   "lines": [
+    "Cos\u00ec, Thorin continu\u00f2: \u00abCi siamo riuniti per discutere i nostri piani, le soluzioni, i mezzi, le strategie e le risorse. Tra poco, prima che spunti l'alba, intraprenderemo il nostro lungo viaggio, un viaggio da cui qualcuno di noi, o forse ognuno di noi (eccetto il nostro amico e consigliere, l'ingegnoso stregone Gandalf) pu\u00f2 anche non ritornare. \u00c8 un momento solenne. Il nostro scopo, non credo di sbagliare, \u00e8 ben noto a tutti noi. Per lo stimatissimo signor Baggins, e forse per uno o due dei Nani pi\u00f9 giovani (credo di non sbagliarmi se indico Kili e Fili, per esempio) pu\u00f2 essere opportuna una sommaria e breve descrizione dello stato attuale delle cose.\u00bb"
+   ]
+  },
+  {
+   "begin": "1855.480",
+   "children": [],
+   "end": "1855.480",
+   "id": "f000306",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1855.480",
+   "children": [],
+   "end": "1922.920",
+   "id": "f000307",
+   "language": "ita",
+   "lines": [
+    "Questo era lo stile di Thorin. Era un Nano importante. Se gli fosse stato permesso, con molta probabilit\u00e0 sarebbe andato avanti in questo modo fino a rimanere senza fiato, senza raccontare a nessuno dei presenti niente che non fosse gi\u00e0 noto a tutti. Ma fu bruscamente interrotto. Il povero Bilbo non ce la fece pi\u00f9 a sopportarlo. Al pu\u00f2 anche non ritornare cominci\u00f2 a sentire un grido salire dentro di lui, e ben presto esso esplose come il fischio lacerante di una locomotiva che esce da un tunnel. Tutti i Nani saltarono su picchiando sulla tavola. Gandalf fece sprizzare una luce blu dall'estremit\u00e0 del suo magico bastone e nel suo vivido bagliore si pot\u00e9 vedere il povero piccolo Hobbit inginocchiato sul tappeto davanti al focolare, tremante come una gelatina che si sta squagliando. Poi cadde bocconi sul pavimento e continu\u00f2 a gridare: \u00abFulminato, fulminato!\u00bb; e questo fu tutto quanto riuscirono a cavargli fuori per un bel po'. Cos\u00ec lo presero e lo levarono di l\u00ec, posandolo sul divano del salotto con qualcosa da bere vicino, e tornarono ai loro affari oscuri."
+   ]
+  },
+  {
+   "begin": "1922.920",
+   "children": [],
+   "end": "1922.920",
+   "id": "f000308",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1922.920",
+   "children": [],
+   "end": "1935.560",
+   "id": "f000309",
+   "language": "ita",
+   "lines": [
+    "\u00abChe tipetto impressionabile!\u00bb disse Gandalf quando si furono nuovamente seduti. \u00abGli vengono questi strani buffi attacchi, ma \u00e8 uno dei migliori... uno dei migliori, fiero come un drago nelle peste.\u00bb"
+   ]
+  },
+  {
+   "begin": "1935.560",
+   "children": [],
+   "end": "1936.920",
+   "id": "f000310",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1936.920",
+   "children": [],
+   "end": "1971.760",
+   "id": "f000311",
+   "language": "ita",
+   "lines": [
+    "Se avete mai visto un drago nelle peste, vi renderete conto che questa era solo un'esagerazione poetica, se riferita a un qualsiasi Hobbit, perfino al proprozio del Vecchio Tuc, Ruggitoro, che era tanto alto (per uno Hobbit) da poter cavalcare un cavallo. Prese parte alla carica contro le schiere degli orchi di Monte Gramma, nella Battaglia di Campiverdi, e colp\u00ec e stacc\u00f2 di netto la testa del loro re Golfimpal con una mazza di legno. La testa vol\u00f2 in aria per un centinaio di metri e cadde poi gi\u00f9 in una tana di coniglio: e in questo modo fu vinta la battaglia e, contemporaneamente, inventato il gioco del Golf."
+   ]
+  },
+  {
+   "begin": "1971.760",
+   "children": [],
+   "end": "1973.400",
+   "id": "f000312",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1973.400",
+   "children": [],
+   "end": "2013.360",
+   "id": "f000313",
+   "language": "ita",
+   "lines": [
+    "Nel frattempo, comunque, il pi\u00f9 mite discendente di Ruggitoro stava riprendendosi in salotto. Dopo un po' di tempo e un bicchierino, si avvicin\u00f2 furtivamente alla porta del salotto, e ud\u00ec Gloin che diceva: \u00abEhm!\u00bb (o qualche altro sbuffo del genere). \u00abCredete che ce la far\u00e0? Non discuto il fatto che secondo Gandalf questo Hobbit sia tanto fiero, ma un urlo come quello, in un momento di panico, basterebbe a svegliare il drago e tutti i suoi parenti, e a far uccidere molti di noi. In realt\u00e0, se non fosse stato per il segno sulla porta, direi che siamo entrati nella casa sbagliata. Appena ho dato un'occhiata a quel tipetto saltellante e sbuffante sullo zerbino ho avuto i miei dubbi. Sembra pi\u00f9 un bottegaio che uno scassinatore!\u00bb"
+   ]
+  },
+  {
+   "begin": "2013.360",
+   "children": [],
+   "end": "2015.040",
+   "id": "f000314",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2015.040",
+   "children": [],
+   "end": "2044.400",
+   "id": "f000315",
+   "language": "ita",
+   "lines": [
+    "A questo punto il signor Baggins gir\u00f2 la maniglia ed entr\u00f2. Il lato Tuc aveva vinto. Sent\u00ec improvvisamente che avrebbe fatto a meno del letto e della prima colazione pur di essere considerato una tempra d'acciaio; quanto al tipetto saltellante sullo zerbino, una frase cos\u00ec lo aveva gi\u00e0 temprato abbastanza. Molto tempo dopo, il lato Baggins avrebbe rimpianto ci\u00f2 che fece ora, ed egli si sarebbe detto: 'Bilbo, sei stato un pazzo: te la sei proprio andata a cercare'."
+   ]
+  },
+  {
+   "begin": "2044.400",
+   "children": [],
+   "end": "2046.400",
+   "id": "f000316",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2046.400",
+   "children": [],
+   "end": "2096.480",
+   "id": "f000317",
+   "language": "ita",
+   "lines": [
+    "\u00abScusatemi,\u00bb disse \u00abse per caso ho sentito le parole che stavate dicendo. Non pretendo di capire di che cosa stiate parlando, o il vostro riferimento agli scassinatori, ma penso di aver ragione nel credere\u00bb (questo \u00e8 quello che chiamava ammantarsi della propria dignit\u00e0) \u00abche voi pensiate che io sia un inetto. Vi prover\u00f2 il contrario. Non ho segni sulla mia porta - \u00e8 stata ridipinta la settimana scorsa - e sono assolutamente sicuro che siete entrati nella casa sbagliata. Appena ho visto le vostre buffe facce sui gradini della porta, ho avuto i miei dubbi. Ma ammettiamo pure che questa sia la casa giusta. Ditemi cosa volete che faccia, e io far\u00f2 del mio meglio, anche se dovessi andare a piedi da qui al pi\u00f9 Lontano Oriente e combattere i selvaggi Draghi Mannari nell'Ultimo Deserto. Un mio pro-pro-pro-prozio, Ruggitoro Tuc, una volta...\u00bb"
+   ]
+  },
+  {
+   "begin": "2096.480",
+   "children": [],
+   "end": "2096.480",
+   "id": "f000318",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2096.480",
+   "children": [],
+   "end": "2131.320",
+   "id": "f000319",
+   "language": "ita",
+   "lines": [
+    "\u00abS\u00ec, s\u00ec, ma era molto tempo fa\u00bb disse Gloin. \u00abIo stavo parlando di te. E ti assicuro che su questa porta c'\u00e8 un segno, quello comunemente usato nel mestiere, o quanto meno usato fino a qualche tempo fa. Scassinatore cerca buon lavoro, eccitante e ragionevolmente remunerativo, ecco come lo si legge di solito. Se preferisci, puoi dire Esperto Cacciatore di Tesori invece di Scassinatore. Qualcuno lo fa. Per noi \u00e8 proprio lo stesso. Gandalf ci ha detto che da queste parti c'era una persona del genere, che cercava lavoro immediatamente e che aveva organizzato un incontro qui per questo mercoled\u00ec all'ora del t\u00e8.\u00bb"
+   ]
+  },
+  {
+   "begin": "2131.320",
+   "children": [],
+   "end": "2133.040",
+   "id": "f000320",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2133.040",
+   "children": [],
+   "end": "2153.760",
+   "id": "f000321",
+   "language": "ita",
+   "lines": [
+    "\u00abCerto che c'\u00e8 un segno\u00bb disse Gandalf. \u00abCe l'ho messo io stesso. Per ottime ragioni. Mi avevate chiesto di trovare un quattordicesimo uomo per la vostra spedizione, e io ho scelto il signor Baggins. Se solo qualcuno si permette di dire che ho scelto l'uomo sbagliato o la casa sbagliata, potete restare in tredici e avere tutta la sfortuna che vi pare o tornarvene a scavare carbone!\u00bb"
+   ]
+  },
+  {
+   "begin": "2153.760",
+   "children": [],
+   "end": "2155.440",
+   "id": "f000322",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2155.440",
+   "children": [],
+   "end": "2201.400",
+   "id": "f000323",
+   "language": "ita",
+   "lines": [
+    "Sgrid\u00f2 Gloin con tanta ira che il Nano si rannicchi\u00f2 tutto in fondo alla sedia; e quando Bilbo tent\u00f2 di aprir bocca per fare una domanda, si gir\u00f2 verso di lui, lo fiss\u00f2 severamente aggrottando le irsute sopracciglia, finch\u00e9 Bilbo non serr\u00f2 la bocca con uno scatto. \u00abCos\u00ec va bene\u00bb disse Gandalf. \u00abSmettiamola di litigare. Ho scelto il signor Baggins e questo dovrebbe essere pi\u00f9 che sufficiente per tutti voi. Se io dico che \u00e8 uno Scassinatore, Scassinatore \u00e8, o lo sar\u00e0 al momento opportuno. \u00c8 pi\u00f9 in gamba di quanto voi non possiate indovinare, e assai pi\u00f9 di quanto egli stesso immagini. Mi auguro che possiate tutti sopravvivere per ringraziarmi ancora. Adesso, Bilbo, ragazzo mio, va' a prendere la lampada e illuminiamo un po' questa!\u00bb"
+   ]
+  },
+  {
+   "begin": "2201.400",
+   "children": [],
+   "end": "2201.440",
+   "id": "f000324",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2201.440",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000325",
+   "language": "ita",
+   "lines": [
+    "E alla luce di una grossa lampada dall'ombra rossa, spieg\u00f2 sulla tavola un pezzo di pergamena che somigliava molto a una mappa."
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000326",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000327",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000328",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000329",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2208.680",
+   "id": "f000330",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2208.680",
+   "children": [],
+   "end": "2217.760",
+   "id": "f000331",
+   "language": "ita",
+   "lines": [
+    "\u00abQuesta fu fatta da Thror, tuo nonno, Thorin\u00bb disse in risposta alle concitate domande dei Nani. \u00ab\u00c8 una pianta della Montagna.\u00bb"
+   ]
+  },
+  {
+   "begin": "2217.760",
+   "children": [],
+   "end": "2219.480",
+   "id": "f000332",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2219.480",
+   "children": [],
+   "end": "2232.520",
+   "id": "f000333",
+   "language": "ita",
+   "lines": [
+    "\u00abNon mi pare che ci aiuter\u00e0 molto\u00bb disse Thorin con un certo disappunto, dopo averci dato un'occhiata. \u00abRicordo abbastanza bene la Montagna e le terre tutt'intorno. E so dov'\u00e8 Bosco Atro e la Brughiera Arida, dove sono nati i grandi draghi.\u00bb"
+   ]
+  },
+  {
+   "begin": "2232.520",
+   "children": [],
+   "end": "2232.520",
+   "id": "f000334",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2232.520",
+   "children": [],
+   "end": "2241.080",
+   "id": "f000335",
+   "language": "ita",
+   "lines": [
+    "\u00abC'\u00e8 un drago segnato in rosso sulla Montagna,\u00bb disse Balin \u00abma sar\u00e0 abbastanza facile trovarlo lo stesso, se mai arriviamo l\u00e0.\u00bb"
+   ]
+  },
+  {
+   "begin": "2241.080",
+   "children": [],
+   "end": "2241.080",
+   "id": "f000336",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2241.080",
+   "children": [],
+   "end": "2255.240",
+   "id": "f000337",
+   "language": "ita",
+   "lines": [
+    "\u00abC'\u00e8 una cosa che non avete notato,\u00bb disse lo stregone \u00abed \u00e8 la porta segreta. Vedete quella runa sulla parte orientale e la mano che la indica dalle altre rune? Questo \u00e8 il segno di un passaggio alle Sale Inferiori.\u00bb (Guardate la pianta all'inizio di questo libro e vedrete le rune sulla sinistra.)"
+   ]
+  },
+  {
+   "begin": "2255.240",
+   "children": [],
+   "end": "2256.320",
+   "id": "f000338",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2256.320",
+   "children": [],
+   "end": "2267.280",
+   "id": "f000339",
+   "language": "ita",
+   "lines": [
+    "\u00abPu\u00f2 essere stata segreta un tempo\u00bb disse Thorin. \u00abMa come facciamo a sapere che lo \u00e8 ancora? Il vecchio Smog ha vissuto l\u00ec abbastanza a lungo per scoprire tutto quanto c'\u00e8 da sapere riguardo a quelle caverne.\u00bb"
+   ]
+  },
+  {
+   "begin": "2267.280",
+   "children": [],
+   "end": "2267.280",
+   "id": "f000340",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2267.280",
+   "children": [],
+   "end": "2272.200",
+   "id": "f000341",
+   "language": "ita",
+   "lines": [
+    "\u00abProbabilmente; ma non pu\u00f2 averla usata da anni e anni.\u00bb"
+   ]
+  },
+  {
+   "begin": "2272.200",
+   "children": [],
+   "end": "2272.200",
+   "id": "f000342",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2272.200",
+   "children": [],
+   "end": "2273.720",
+   "id": "f000343",
+   "language": "ita",
+   "lines": [
+    "\u00abPerch\u00e9?\u00bb"
+   ]
+  },
+  {
+   "begin": "2273.720",
+   "children": [],
+   "end": "2273.720",
+   "id": "f000344",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2273.720",
+   "children": [],
+   "end": "2290.000",
+   "id": "f000345",
+   "language": "ita",
+   "lines": [
+    "\u00abPerch\u00e9 \u00e8 troppo piccola. 'La porta \u00e8 alta un metro e mezzo e ci si pu\u00f2 passare in tre per volta', dicono le rune, ma Smog non poteva infilarsi in una apertura di quella misura, neanche quand'era un giovane drago, e certo non dopo avere divorato tutti quei Nani e tutti quegli Uomini di Dale.\u00bb"
+   ]
+  },
+  {
+   "begin": "2290.000",
+   "children": [],
+   "end": "2292.120",
+   "id": "f000346",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2292.120",
+   "children": [],
+   "end": "2324.520",
+   "id": "f000347",
+   "language": "ita",
+   "lines": [
+    "\u00abA me sembra un'apertura molto grande!\u00bb squitt\u00ec Bilbo (che non aveva nessuna esperienza di draghi, ma solo di caverne hobbit). Stava di nuovo eccitandosi e prendendo interesse, sicch\u00e9 dimentic\u00f2 di tener chiusa la bocca. Amava le mappe, e nell'ingresso ne teneva appesa una grande del territorio della Contea con tutte le sue passeggiate preferite segnate in rosso. \u00abCome ha potuto una porta cos\u00ec larga rimanere nascosta a tutti gli estranei, a parte il drago?\u00bb domand\u00f2. Non dimenticate che era solo un piccolo Hobbit..."
+   ]
+  },
+  {
+   "begin": "2324.520",
+   "children": [],
+   "end": "2324.560",
+   "id": "f000348",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2324.560",
+   "children": [],
+   "end": "2342.520",
+   "id": "f000349",
+   "language": "ita",
+   "lines": [
+    "\u00abIn molti modi\u00bb disse Gandalf. \u00abMa come questa in particolare sia rimasta nascosta, non possiamo saperlo senza andare a vedere. Da quanto dice la mappa, direi che si tratta di una porta chiusa in modo da sembrare esattamente una parte del fianco della Montagna. \u00c8 il metodo comunemente usato dai Nani, mi pare, o sbaglio?\u00bb"
+   ]
+  },
+  {
+   "begin": "2342.520",
+   "children": [],
+   "end": "2343.880",
+   "id": "f000350",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2343.880",
+   "children": [],
+   "end": "2346.400",
+   "id": "f000351",
+   "language": "ita",
+   "lines": [
+    "\u00abNo, hai perfettamente ragione\u00bb disse Thorin."
+   ]
+  },
+  {
+   "begin": "2346.400",
+   "children": [],
+   "end": "2347.120",
+   "id": "f000352",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2347.120",
+   "children": [],
+   "end": "2362.880",
+   "id": "f000353",
+   "language": "ita",
+   "lines": [
+    "\u00abInoltre,\u00bb continu\u00f2 Gandalf \u00abho dimenticato di dirvi che assieme alla mappa c'\u00e8 una chiave, una chiave piccola e strana. Eccola qua!\u00bb disse, e porse a Thorin una chiave d'argento dal lungo fusto, con gli ingegni molto complicati. \u00abTienila al sicuro!\u00bb"
+   ]
+  },
+  {
+   "begin": "2362.880",
+   "children": [],
+   "end": "2364.440",
+   "id": "f000354",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2364.440",
+   "children": [],
+   "end": "2386.760",
+   "id": "f000355",
+   "language": "ita",
+   "lines": [
+    "\u00abSenza dubbio!\u00bb e Thorin l'assicur\u00f2 a una sottile catenella che gli pendeva attorno al collo, sotto la giacca. \u00abAdesso le cose cominciano ad apparire pi\u00f9 rosee: questa novit\u00e0 le migliora molto. Finora non sapevamo bene che cosa fare. Pensavamo di andare verso Oriente, il pi\u00f9 silenziosamente e prudentemente possibile, fino al Lago Lungo. I guai sarebbero cominciati allora...\u00bb"
+   ]
+  },
+  {
+   "begin": "2386.760",
+   "children": [],
+   "end": "2387.960",
+   "id": "f000356",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2387.960",
+   "children": [],
+   "end": "2391.960",
+   "id": "f000357",
+   "language": "ita",
+   "lines": [
+    "\u00abMolto prima, se so qualcosa delle strade orientali\u00bb interruppe Gandalf."
+   ]
+  },
+  {
+   "begin": "2391.960",
+   "children": [],
+   "end": "2393.920",
+   "id": "f000358",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2393.920",
+   "children": [],
+   "end": "2418.520",
+   "id": "f000359",
+   "language": "ita",
+   "lines": [
+    "\u00abDa l\u00ec avremmo potuto risalire il Fiume Fluente\u00bb continu\u00f2 Thorin senza badargli \u00abe poi arrivare alle rovine di Dale, l'antica citt\u00e0 della valle, all'ombra della Montagna. Ma a nessuno di noi piaceva l'idea della Porta Principale. Il fiume scorre fuori proprio di l\u00ec, attraverso le grandi rupi a sud della Montagna e proprio di l\u00ec esce anche il drago, anche un po' troppo spesso, a meno che non abbia cambiato le proprie abitudini.\u00bb"
+   ]
+  },
+  {
+   "begin": "2418.520",
+   "children": [],
+   "end": "2418.520",
+   "id": "f000360",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2418.520",
+   "children": [],
+   "end": "2465.400",
+   "id": "f000361",
+   "language": "ita",
+   "lines": [
+    "\u00abQuesto non servirebbe a niente\u00bb disse lo stregone. \u00abNon senza un possente Guerriero, anzi un Eroe. Ho cercato di trovarne uno, ma i guerrieri sono occupati a combattersi l'un l'altro in terre lontane, e in questa zona gli eroi scarseggiano o \u00e8 semplicemente impossibile trovarli. Da queste parti le spade hanno per lo pi\u00f9 perso il filo, le asce sono usate per gli alberi, e gli scudi come culle o coperchi; i draghi poi sono confortevolmente lontani (e perci\u00f2 leggendari). Ecco perch\u00e9 mi sono deciso per lo scassinamento, specialmente quando mi sono ricordato dell'esistenza della Porta Laterale. Ed ecco il nostro piccolo Bilbo Baggins, lo scassinatore, lo scassinatore scelto e prescelto. Perci\u00f2 andiamo avanti e facciamo qualche piano.\u00bb"
+   ]
+  },
+  {
+   "begin": "2465.400",
+   "children": [],
+   "end": "2466.880",
+   "id": "f000362",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2466.880",
+   "children": [],
+   "end": "2477.040",
+   "id": "f000363",
+   "language": "ita",
+   "lines": [
+    "\u00abMolto bene, allora,\u00bb disse Thorin \u00abammesso che l'esperto in furto con scasso ci dia qualche buona idea o qualche suggerimento.\u00bb Si gir\u00f2 con ironica cortesia verso Bilbo."
+   ]
+  },
+  {
+   "begin": "2477.040",
+   "children": [],
+   "end": "2478.960",
+   "id": "f000364",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2478.960",
+   "children": [],
+   "end": "2497.360",
+   "id": "f000365",
+   "language": "ita",
+   "lines": [
+    "\u00abIn primo luogo mi piacerebbe saperne un po' di pi\u00f9\u00bb disse questi, sentendosi confuso e interiormente un po' scosso, ma ancora Tuccamente deciso ad andare avanti con quella faccenda. \u00abVoglio dire riguardo all'oro e al drago e compagnia bella, e come ci \u00e8 arrivato e a chi appartiene, eccetera eccetera.\u00bb"
+   ]
+  },
+  {
+   "begin": "2497.360",
+   "children": [],
+   "end": "2497.360",
+   "id": "f000366",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2497.360",
+   "children": [],
+   "end": "2507.880",
+   "id": "f000367",
+   "language": "ita",
+   "lines": [
+    "\u00abChe il cielo mi fulmini!\u00bb disse Thorin. \u00abNon hai qui una mappa? E non hai sentito la nostra canzone? E non siamo stati a parlarne per ore e ore?\u00bb"
+   ]
+  },
+  {
+   "begin": "2507.880",
+   "children": [],
+   "end": "2509.680",
+   "id": "f000368",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2509.680",
+   "children": [],
+   "end": "2539.080",
+   "id": "f000369",
+   "language": "ita",
+   "lines": [
+    "\u00abMi piacerebbe lo stesso avere una spiegazione chiara e semplice\u00bb disse Bilbo ostinato, assumendo i suoi modi professionali (di solito riservati alle persone che cercavano di chiedergli denaro in prestito), e facendo del proprio meglio per apparire saggio, prudente, professionale e all'altezza della raccomandazione di Gandalf. \u00abInoltre mi piacerebbe saperne di pi\u00f9 sui rischi, sulle spese extra, sul tempo a disposizione, sul compenso, e cos\u00ec via.\u00bb E voleva dire: \u00abChe cosa me ne verr\u00e0 in tasca? e torner\u00f2 indietro vivo?\u00bb"
+   ]
+  },
+  {
+   "begin": "2539.080",
+   "children": [],
+   "end": "2540.920",
+   "id": "f000370",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2540.920",
+   "children": [],
+   "end": "2636.800",
+   "id": "f000371",
+   "language": "ita",
+   "lines": [
+    "\u00abBenissimo, allora!\u00bb disse Thorin. \u00abMolto tempo fa, al tempo di mio nonno Thror, la nostra famiglia fu cacciata dal lontano Nord e ritorn\u00f2 con tutti i suoi beni e i suoi attrezzi a questa Montagna indicata sulla mappa. Era stata scoperta dal mio lontano antenato Thrain il Vecchio, ma fu solo a quel tempo che i miei parenti vi scavarono sotto delle miniere e dei tunnel, e vi costruirono sale pi\u00f9 larghe e officine pi\u00f9 grandi; inoltre trovarono, credo, un bel po' d'oro e anche un'infinit\u00e0 di pietre preziose. In ogni modo divennero immensamente ricchi e famosi, e mio nonno fu di nuovo Re sotto la Montagna, e trattato con gran rispetto dagli Uomini mortali, che vivevano a Sud, e si diffondevano gradatamente per tutta la valle all'ombra della Montagna risalendo il Fiume Fluente. In quei giorni costruirono l\u00ec la prospera citt\u00e0 di Dale. I re ricercavano l'opera dei nostri fabbri, e ricompensavano perfino il meno abile con la massima liberalit\u00e0. I padri ci pregavano di prendere i loro figli come apprendisti e ci pagavano profumatamente, specialmente con prodotti alimentari, che noi non ci curavamo di coltivare o di procurarci noi stessi. Tutto sommato erano gran bei giorni per noi, e il pi\u00f9 povero aveva soldi da spendere e prestare, e tutto il tempo libero che voleva per fare le cose pi\u00f9 belle per puro diletto; per non parlare dei balocchi, i pi\u00f9 magici e meravigliosi del mondo, di cui oggi non si ha assolutamente l'uguale. Cos\u00ec le sale di mio nonno si riempirono di armature, gioielli, incisioni e coppe, e il mercato dei balocchi a Dale divenne la meraviglia del Nord.\u00bb"
+   ]
+  },
+  {
+   "begin": "2636.800",
+   "children": [],
+   "end": "2638.600",
+   "id": "f000372",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2638.600",
+   "children": [],
+   "end": "2806.480",
+   "id": "f000373",
+   "language": "ita",
+   "lines": [
+    "\u00abSenza dubbio fu questo che attir\u00f2 il drago. Sai che i draghi rubano agli Uomini, agli Elfi e ai Nani oro e gioielli, dovunque possano trovarli; e fanno la guardia al loro bottino finch\u00e9 vivono (il che in pratica vuol dire per sempre, a meno che non vengano uccisi) e non si godono uno spillo di quello che hanno rubato. In realt\u00e0 sanno a malapena distinguere un lavoro ben fatto da uno fatto male, anche se di solito ne conoscono bene il valore corrente sul mercato; e non sono capaci di fare alcunch\u00e9 da soli, neanche di riparare una scaglietta staccatasi dalla loro corazza. A quei tempi c'era un gran numero di draghi al Nord, e l'oro probabilmente cominciava a scarseggiare da quelle parti, coi Nani che scappavano a Sud o venivano uccisi e la desolazione e la distruzione che i draghi continuavano a disseminare, s\u00ec che tutto andava di male in peggio. C'era un drago particolarmente avido, forte e malvagio, chiamato Smog. Un giorno si lev\u00f2 in aria e volando giunse al Sud. La prima cosa che sentimmo di lui fu un rumore come d'uragano provenire da Nord, e i pini sulla Montagna scricchiolare e schiantarsi al vento. Con alcuni dei Nani che per caso si trovavano all'aperto (per fortuna ero uno di essi, un ragazzetto avventuroso a quei tempi, sempre in giro, e questo mi salv\u00f2 la vita quel giorno) - bene, da una bella distanza vedemmo il drago calare sulla nostra montagna in una nube di fuoco. Poi scese la china e quando arriv\u00f2 ai boschi, le fiamme li divorarono. Contemporaneamente, tutte le campane suonavano a Dale e i guerrieri si armavano. I Nani si precipitarono fuori della grande porta, ma trovarono il drago ad aspettarli. Nessuno si salv\u00f2 per quella via. Il fiume riboll\u00ec in densi vapori e una fitta nebbia invest\u00ec Dale, e nella nebbia il drago cal\u00f2 su di loro e distrusse quasi tutti i guerrieri - la solita storia disgraziata, fin troppo comune a quei giorni. Poi torn\u00f2 indietro e si infil\u00f2 dentro la Porta Principale e mise a soqquadro tutte le sale, i condotti, i tunnel, i corridoi, le cantine, le abitazioni e i passaggi. Dopo di ci\u00f2 non rimase all'interno un solo Nano vivo, ed egli si impadron\u00ec di tutti i loro beni. Probabilmente, perch\u00e9 questo \u00e8 l'uso dei draghi, ha ammassato tutto in un gran mucchio nel cuore della Montagna e ci dorme sopra come fosse il suo letto. Era solito poi strisciare fuori della grande porta e andare a Dale di notte a portar via delle persone, specialmente fanciulle, per mangiarsele, finch\u00e9 Dale non fu rovinata e tutta la sua gente morta o partita. Non so con certezza che cosa vi stia succedendo adesso, ma credo che al giorno d'oggi nessuno viva pi\u00f9 vicino alla Montagna, almeno non oltre l'estremit\u00e0 pi\u00f9 lontana del Lago Lungo.\u00bb"
+   ]
+  },
+  {
+   "begin": "2806.480",
+   "children": [],
+   "end": "2806.480",
+   "id": "f000374",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2806.480",
+   "children": [],
+   "end": "2862.600",
+   "id": "f000375",
+   "language": "ita",
+   "lines": [
+    "\u00abQuei pochi tra noi che erano fuori al sicuro si sedettero e piansero, tenendosi nascosti, e maledissero Smog; poi, inaspettatamente, fummo raggiunti da mio padre e da mio nonno con le barbe bruciate. Avevano un aspetto torvo ed ebbero pochissime parole. Quando domandai come avessero fatto a scampare, mi dissero di tenere a freno la lingua, e aggiunsero che un giorno, al momento opportuno, l'avrei saputo. Dopo di che ce ne andammo, e dovemmo guadagnarci da vivere come meglio potevamo ora qui ora l\u00e0, fin troppo spesso costretti a umiliarci lavorando come maniscalchi o addirittura come minatori. Ma non abbiamo mai dimenticato il nostro tesoro rubato. E ancor oggi, che abbiamo messo da parte un bel po' e non stiamo proprio tanto male, ammettiamolo pure,\u00bb e qui Thorin pass\u00f2 la mano sulla catena d'oro attorno al collo \u00abancora oggi vogliamo riaverlo, e tornare a casa e rovesciare le nostre maledizioni su Smog, se possiamo.\u00bb"
+   ]
+  },
+  {
+   "begin": "2862.600",
+   "children": [],
+   "end": "2864.640",
+   "id": "f000376",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2864.640",
+   "children": [],
+   "end": "2882.040",
+   "id": "f000377",
+   "language": "ita",
+   "lines": [
+    "\u00abMi sono spesso stupito della fuga di mio padre e di mio nonno. Mi rendo conto adesso che dovevano aver avuto una Porta Laterale privata di cui essi soli conoscevano l'esistenza. Ma a quanto pare fecero una mappa e mi piacerebbe sapere come ha fatto Gandalf a impossessarsene, e perch\u00e9 non \u00e8 arrivata a me, il legittimo erede.\u00bb"
+   ]
+  },
+  {
+   "begin": "2882.040",
+   "children": [],
+   "end": "2884.240",
+   "id": "f000378",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2884.240",
+   "children": [],
+   "end": "2893.960",
+   "id": "f000379",
+   "language": "ita",
+   "lines": [
+    "\u00abNon \u00e8 che io me ne sia impossessato; essa mi \u00e8 stata data\u00bb disse lo stregone. \u00abTuo nonno Thror fu ucciso, come ben ricordi, nelle miniere di Moria da Azog l'Orco.\u00bb"
+   ]
+  },
+  {
+   "begin": "2893.960",
+   "children": [],
+   "end": "2895.400",
+   "id": "f000380",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2895.400",
+   "children": [],
+   "end": "2899.240",
+   "id": "f000381",
+   "language": "ita",
+   "lines": [
+    "\u00abMaledetto il suo nome, s\u00ec\u00bb disse Thorin."
+   ]
+  },
+  {
+   "begin": "2899.240",
+   "children": [],
+   "end": "2899.240",
+   "id": "f000382",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2899.240",
+   "children": [],
+   "end": "2905.920",
+   "id": "f000383",
+   "language": "ita",
+   "lines": [
+    "\u00abE Thrain, tuo padre, scomparve il ventun'aprile, che gioved\u00ec scorso faceva cent'anni, e tu non l'hai pi\u00f9 visto da allora...\u00bb"
+   ]
+  },
+  {
+   "begin": "2905.920",
+   "children": [],
+   "end": "2907.040",
+   "id": "f000384",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2907.040",
+   "children": [],
+   "end": "2908.960",
+   "id": "f000385",
+   "language": "ita",
+   "lines": [
+    "\u00abVero, vero\u00bb disse Thorin."
+   ]
+  },
+  {
+   "begin": "2908.960",
+   "children": [],
+   "end": "2910.160",
+   "id": "f000386",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2910.160",
+   "children": [],
+   "end": "2936.600",
+   "id": "f000387",
+   "language": "ita",
+   "lines": [
+    "\u00abBene, tuo padre me la dette perch\u00e9 io la dessi a te; e se ho scelto il momento e il modo che preferivo per consegnartela, non puoi proprio biasimarmi, considerate le difficolt\u00e0 che ho avuto per trovarti. Tuo padre non riusciva neanche a ricordarsi il suo nome quando mi dette la carta e non mi disse mai il tuo; cos\u00ec nel complesso penso che dovrei essere lodato e ringraziato! Ecco qua\u00bb disse consegnando la mappa a Thorin."
+   ]
+  },
+  {
+   "begin": "2936.600",
+   "children": [],
+   "end": "2936.600",
+   "id": "f000388",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2936.600",
+   "children": [],
+   "end": "2944.720",
+   "id": "f000389",
+   "language": "ita",
+   "lines": [
+    "\u00abNon capisco\u00bb disse Thorin, e Bilbo pens\u00f2 che gli sarebbe piaciuto dire lo stesso. La spiegazione non sembrava spiegare niente."
+   ]
+  },
+  {
+   "begin": "2944.720",
+   "children": [],
+   "end": "2944.720",
+   "id": "f000390",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2944.720",
+   "children": [],
+   "end": "2971.640",
+   "id": "f000391",
+   "language": "ita",
+   "lines": [
+    "\u00abTuo nonno\u00bb disse lo stregone con voce lenta e severa \u00abdette la mappa a suo figlio prima di recarsi nelle miniere di Moria. Tuo padre se ne and\u00f2 a tentare la sorte con la mappa dopo che tuo nonno fu ucciso, ed ebbe un gran numero di avventure del tipo pi\u00f9 spiacevole, ma non arriv\u00f2 mai vicino alla Montagna. Come fosse arrivato l\u00ec non lo so, ma lo trovai prigioniero nelle segrete del Negromante.\u00bb"
+   ]
+  },
+  {
+   "begin": "2971.640",
+   "children": [],
+   "end": "2973.520",
+   "id": "f000392",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2973.520",
+   "children": [],
+   "end": "2978.960",
+   "id": "f000393",
+   "language": "ita",
+   "lines": [
+    "\u00abChe cosa ci eri andato a fare?\u00bb disse Thorin con un fremito d'orrore: e tutti i Nani rabbrividirono."
+   ]
+  },
+  {
+   "begin": "2978.960",
+   "children": [],
+   "end": "2978.960",
+   "id": "f000394",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "2978.960",
+   "children": [],
+   "end": "3001.440",
+   "id": "f000395",
+   "language": "ita",
+   "lines": [
+    "\u00abQuesto non ti riguarda. Indagavo, come al solito; ed era proprio un affare maledettamente pericoloso. Perfino io, Gandalf, riuscii a scappare per un soffio. Cercai di salvare tuo padre, ma era troppo tardi. Inebetito e brancolante, si era ormai dimenticato quasi di tutto, tranne che della mappa e della chiave.\u00bb"
+   ]
+  },
+  {
+   "begin": "3001.440",
+   "children": [],
+   "end": "3001.440",
+   "id": "f000396",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3001.440",
+   "children": [],
+   "end": "3008.640",
+   "id": "f000397",
+   "language": "ita",
+   "lines": [
+    "\u00abMolto tempo fa l'abbiamo fatta pagare agli orchi di Moria\u00bb disse Thorin. \u00abDobbiamo cominciare a occuparci del Negromante!\u00bb"
+   ]
+  },
+  {
+   "begin": "3008.640",
+   "children": [],
+   "end": "3008.640",
+   "id": "f000398",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3008.640",
+   "children": [],
+   "end": "3027.200",
+   "id": "f000399",
+   "language": "ita",
+   "lines": [
+    "\u00abNon essere assurdo! \u00c8 un nemico molto al di sopra delle capacit\u00e0 di tutti i Nani messi assieme, se anche potessero essere riuniti di nuovo dai quattro angoli della terra. La sola cosa che tuo padre desiderava era che suo figlio leggesse la mappa e usasse la chiave. Il drago e la Montagna bastano e avanzano per voi!\u00bb"
+   ]
+  },
+  {
+   "begin": "3027.200",
+   "children": [],
+   "end": "3028.840",
+   "id": "f000400",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3028.840",
+   "children": [],
+   "end": "3033.840",
+   "id": "f000401",
+   "language": "ita",
+   "lines": [
+    "\u00abSenti, senti!\u00bb disse Bilbo, e per caso lo disse ad alta voce."
+   ]
+  },
+  {
+   "begin": "3033.840",
+   "children": [],
+   "end": "3033.840",
+   "id": "f000402",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3033.840",
+   "children": [],
+   "end": "3042.880",
+   "id": "f000403",
+   "language": "ita",
+   "lines": [
+    "\u00abSenti che cosa?\u00bb dissero tutti volgendosi di scatto verso di lui, ed egli ne fu cos\u00ec confuso che rispose: \u00abSenti che cosa ho da dire!.\u00bb"
+   ]
+  },
+  {
+   "begin": "3042.880",
+   "children": [],
+   "end": "3042.880",
+   "id": "f000404",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3042.880",
+   "children": [],
+   "end": "3047.120",
+   "id": "f000405",
+   "language": "ita",
+   "lines": [
+    "\u00abChe cosa?\u00bb domandarono."
+   ]
+  },
+  {
+   "begin": "3047.120",
+   "children": [],
+   "end": "3047.120",
+   "id": "f000406",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3047.120",
+   "children": [],
+   "end": "3072.600",
+   "id": "f000407",
+   "language": "ita",
+   "lines": [
+    "\u00abBe', direi che dovreste andare a Est a dare un'occhiata in giro. Dopo tutto c'\u00e8 la Porta Laterale, e anche i draghi debbono pur dormire qualche volta, suppongo. Se ve ne starete seduti sulla soglia abbastanza a lungo, oso dire che vi verr\u00e0 in mente qualcosa. Per ora, a me viene in mente che abbiamo parlato abbastanza per una notte sola, non so se mi spiego. Che ne pensate di un letto, e di partire di buon'ora e compagnia bella? Vi preparer\u00f2 una buona colazione prima che partiate.\u00bb"
+   ]
+  },
+  {
+   "begin": "3072.600",
+   "children": [],
+   "end": "3074.000",
+   "id": "f000408",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3074.000",
+   "children": [],
+   "end": "3096.240",
+   "id": "f000409",
+   "language": "ita",
+   "lines": [
+    "\u00abPrima che partiamo, vuoi dire\u00bb disse Thorin. \u00abNon sei tu lo scassinatore? Quanto allo star seduti sulla soglia, mi pare che questo sia compito tuo, per non parlare del fatto di aprire la porta ed entrare! Ma sono d'accordo per quanto riguarda il letto e la colazione. Prendo volentieri sei uova col prosciutto, quando mi metto in viaggio: fritte, non in camicia, bada a non romperle.\u00bb"
+   ]
+  },
+  {
+   "begin": "3096.240",
+   "children": [],
+   "end": "3098.240",
+   "id": "f000410",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3098.240",
+   "children": [],
+   "end": "3137.480",
+   "id": "f000411",
+   "language": "ita",
+   "lines": [
+    "Dopo che tutti gli altri ebbero ordinato la loro colazione senza dire neanche una volta \u00abper piacere\u00bb (cosa che a Bilbo secc\u00f2 moltissimo), si alzarono. Lo Hobbit dovette trovare posto per tutti, riemp\u00ec tutte le camere disponibili, prepar\u00f2 i letti su sedie e divani, e finalmente, dopo averli sistemati, pot\u00e9 andare a dormire nel suo lettino, molto stanco e nel complesso assai poco felice. L'unica decisione che prese fu di non disturbarsi ad alzarsi molto presto per preparare la dannata colazione a tutti gli altri. Il suo lato Tuc si stava rapidamente squagliando, e Bilbo non era pi\u00f9 tanto sicuro che al mattino sarebbe partito per un viaggio, di qualsiasi tipo fosse."
+   ]
+  },
+  {
+   "begin": "3137.480",
+   "children": [],
+   "end": "3138.600",
+   "id": "f000412",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3138.600",
+   "children": [],
+   "end": "3145.720",
+   "id": "f000413",
+   "language": "ita",
+   "lines": [
+    "Mentre giaceva a letto poteva udire Thorin che cantava ancora piano, tra s\u00e9 e s\u00e9, nella migliore camera da letto accanto alla sua:"
+   ]
+  },
+  {
+   "begin": "3145.720",
+   "children": [],
+   "end": "3145.720",
+   "id": "f000414",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3145.720",
+   "children": [],
+   "end": "3145.720",
+   "id": "f000415",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3145.720",
+   "children": [],
+   "end": "3147.080",
+   "id": "f000416",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3147.080",
+   "children": [],
+   "end": "3149.240",
+   "id": "f000417",
+   "language": "ita",
+   "lines": [
+    "Lontan sui monti fumidi e gelati"
+   ]
+  },
+  {
+   "begin": "3149.240",
+   "children": [],
+   "end": "3149.320",
+   "id": "f000418",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3149.320",
+   "children": [],
+   "end": "3151.400",
+   "id": "f000419",
+   "language": "ita",
+   "lines": [
+    "in antri fondi, oscuri, desolati,"
+   ]
+  },
+  {
+   "begin": "3151.400",
+   "children": [],
+   "end": "3151.400",
+   "id": "f000420",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3151.400",
+   "children": [],
+   "end": "3154.240",
+   "id": "f000421",
+   "language": "ita",
+   "lines": [
+    "prima che sorga il sol dobbiamo andare"
+   ]
+  },
+  {
+   "begin": "3154.240",
+   "children": [],
+   "end": "3154.240",
+   "id": "f000422",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3154.240",
+   "children": [],
+   "end": "3156.560",
+   "id": "f000423",
+   "language": "ita",
+   "lines": [
+    "i pallidi a cercar ori incantati."
+   ]
+  },
+  {
+   "begin": "3156.560",
+   "children": [],
+   "end": "3156.560",
+   "id": "f000424",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3156.560",
+   "children": [],
+   "end": "3156.560",
+   "id": "f000425",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3156.560",
+   "children": [],
+   "end": "3158.280",
+   "id": "f000426",
+   "language": "ita",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "3158.280",
+   "children": [],
+   "end": "3168.000",
+   "id": "f000427",
+   "language": "ita",
+   "lines": [
+    "Bilbo si addorment\u00f2 con questo canto nelle orecchie che provoc\u00f2 sogni molto agitati. Era giorno alto quando si svegli\u00f2."
    ]
   }
  ]

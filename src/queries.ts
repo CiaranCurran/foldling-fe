@@ -1,61 +1,67 @@
-import { gql } from "@apollo/client";
+import { gql } from '@apollo/client'
 
 export const GET_WORDS = gql`
-  query {
-    words {
-      word
-      learning
-      known
-      ignore
-      impressions
+    query GetWords($user: String) {
+        words(user: $user) {
+            user
+            word
+            learning
+            known
+            ignore
+            impressions
+        }
     }
-  }
-`;
+`
 
 export const ADD_WORD = gql`
-  mutation AddWord(
-    $word: String!
-    $learning: Boolean
-    $known: Boolean
-    $ignore: Boolean
-    $impressions: Int
-  ) {
-    addWord(
-      word: $word
-      learning: $learning
-      known: $known
-      ignore: $ignore
-      impressions: $impressions
+    mutation AddWord(
+        $user: String!
+        $word: String!
+        $learning: Boolean
+        $known: Boolean
+        $ignore: Boolean
+        $impressions: Int
     ) {
-      word
-      learning
-      known
-      ignore
-      impressions
+        addWord(
+            user: $user
+            word: $word
+            learning: $learning
+            known: $known
+            ignore: $ignore
+            impressions: $impressions
+        ) {
+            user
+            word
+            learning
+            known
+            ignore
+            impressions
+        }
     }
-  }
-`;
+`
 
 export const SET_KNOWN = gql`
-  mutation SetKnown($word: String!) {
-    setKnown(word: $word) {
-      word
-      learning
-      known
-      impressions
-      ignore
+    mutation SetKnown($word: String!, $user: String!) {
+        setKnown(word: $word, user: $user) {
+            user
+            word
+            learning
+            known
+            impressions
+            ignore
+        }
     }
-  }
-`;
+`
 
 export const SET_IGNORE = gql`
-  mutation SetIgnore($word: String!) {
-    setIgnore(word: $word) {
-      word
-      learning
-      known
-      impressions
-      ignore
+    mutation SetIgnore($word: String!, $user: String!) {
+        setIgnore(word: $word, user: $user) {
+            user
+            word
+            learning
+            known
+            impressions
+            ignore
+        }
     }
-  }
-`;
+`

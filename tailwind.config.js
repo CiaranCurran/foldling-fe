@@ -14,8 +14,8 @@ module.exports = {
         arcticLight: "#3F4B71",
         ice: "#07559D",
         coal: "#192538",
-        grass: "#00BBB0",
-        petal: "#CD0094"
+        grass: "#4FCAFF",
+        petal: "#9955EF"
       },
     },
   },
