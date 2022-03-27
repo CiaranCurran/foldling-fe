@@ -55,8 +55,10 @@ function App() {
     let LANG: string
     if (user === 'Ciaran') {
         LANG = 'PT'
-    } else {
+    } else if (user === 'JJ') {
         LANG = 'IT'
+    } else if (user === 'Mark') {
+        LANG = 'FR'
     }
 
     // Generates a translation for the latest selection
