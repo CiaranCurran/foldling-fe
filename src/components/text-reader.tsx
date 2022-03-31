@@ -30,7 +30,12 @@ function binarySearch(arr: any[], val: any, comp: any) {
 }
 
 const TextReader = ({ setTime, highlight, currentTime, setSelection }: any) => {
-    const { words, setWords, user } = useContext(WordContext)
+    const { words, setWords, user: user_var } = useContext(WordContext)
+    let user: any
+    user = user_var
+    if (user_var === 'Ciaran2') {
+        user = 'Ciaran'
+    }
     let text: any
     if (user === 'Ciaran') {
         text = text_por
