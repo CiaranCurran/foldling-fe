@@ -53,7 +53,7 @@ function App() {
     }, [])
 
     let LANG: string
-    if (user === 'Ciaran') {
+    if (user === 'Ciaran' || 'Ciaran2') {
         LANG = 'PT'
     } else if (user === 'JJ') {
         LANG = 'IT'

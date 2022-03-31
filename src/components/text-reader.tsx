@@ -2,6 +2,7 @@ import { useContext, useEffect, useRef, useState } from 'react'
 import text_it from '../syncmap.json'
 import text_por from '../syncmap_ch1_por.json'
 import text_fr from '../syncmap_ch1_fr.json'
+import text_por_ch2 from '../syncmap_por_ch2.json'
 import { useQuery, useMutation } from '@apollo/client'
 import { GET_WORDS, ADD_WORD } from '../queries'
 import { WordContext } from '../App'
@@ -37,7 +38,10 @@ const TextReader = ({ setTime, highlight, currentTime, setSelection }: any) => {
         text = text_it
     } else if (user === 'Mark') {
         text = text_fr
+    } else if (user === 'Ciaran2') {
+        text = text_por_ch2
     }
+
     const refList = useRef<any>({})
     const container = useRef<any>(null)
     const [previousFrag, setPreviousFrag] = useState<any>(null)
