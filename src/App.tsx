@@ -133,7 +133,12 @@ function App() {
     const textToSpeech = () => {}
 
     const login = () => {
-        if (user === 'JJ' || user === 'Mark' || user === 'Ciaran') {
+        if (
+            user === 'JJ' ||
+            user === 'Mark' ||
+            user === 'Ciaran' ||
+            user === 'Ciaran2'
+        ) {
             setLoggedIn(true)
         }
     }
