@@ -13,7 +13,7 @@ import {
 import axios from 'axios'
 import { json } from 'stream/consumers'
 import { SET_IGNORE, SET_KNOWN } from './queries'
-import { AiFillSound } from 'react-icons/ai'
+import { AiFillSound, AiOutlineConsoleSql } from 'react-icons/ai'
 import { ReactComponent as Penguin } from './assets/penguin.svg'
 import { LANGUAGE } from './constants'
 import './App.scss'
@@ -53,7 +53,7 @@ function App() {
     }, [])
 
     let LANG: string
-    if (user === 'Ciaran' || 'Ciaran2') {
+    if (user === 'Ciaran' || user === 'Ciaran2') {
         LANG = 'PT'
     } else if (user === 'JJ') {
         LANG = 'IT'
