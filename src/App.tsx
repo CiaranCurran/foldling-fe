@@ -59,6 +59,8 @@ function App() {
         LANG = 'IT'
     } else if (user === 'Mark') {
         LANG = 'FR'
+    } else if (user === 'Aidan') {
+        LANG = 'SK'
     }
 
     // Generates a translation for the latest selection
@@ -137,7 +139,8 @@ function App() {
             user === 'JJ' ||
             user === 'Mark' ||
             user === 'Ciaran' ||
-            user === 'Ciaran2'
+            user === 'Ciaran2' ||
+            user === 'Aidan'
         ) {
             setLoggedIn(true)
         }

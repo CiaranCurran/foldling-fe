@@ -3,6 +3,7 @@ import text_it from '../syncmap.json'
 import text_por from '../syncmap_ch1_por.json'
 import text_fr from '../syncmap_ch1_fr.json'
 import text_por_ch2 from '../syncmap_por_ch2.json'
+import text_sk from '../syncmap_ch1_sk.json'
 import { useQuery, useMutation } from '@apollo/client'
 import { GET_WORDS, ADD_WORD } from '../queries'
 import { WordContext } from '../App'
@@ -45,6 +46,8 @@ const TextReader = ({ setTime, highlight, currentTime, setSelection }: any) => {
         text = text_fr
     } else if (user_var === 'Ciaran2') {
         text = text_por_ch2
+    } else if (user_var === 'Aidan') {
+        text = text_sk
     }
 
     const refList = useRef<any>({})
