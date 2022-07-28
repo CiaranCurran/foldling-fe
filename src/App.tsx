@@ -61,6 +61,8 @@ function App() {
         LANG = 'FR'
     } else if (user === 'Aidan') {
         LANG = 'SK'
+    } else if (user === 'Ciaran_SP') {
+        LANG = 'ES'
     }
 
     // Generates a translation for the latest selection
@@ -140,6 +142,7 @@ function App() {
             user === 'Mark' ||
             user === 'Ciaran' ||
             user === 'Ciaran2' ||
+            user === 'Ciaran_SP' ||
             user === 'Aidan'
         ) {
             setLoggedIn(true)
@@ -177,7 +180,7 @@ function App() {
 
     return (
         <WordContext.Provider value={{ words, setWords, user }}>
-            <div className="flex flex-row h-full items-center justify-evenly text-white bg-arctic">
+            <div className="flex flex-row h-full items-center justify-evenly text-white bg-arctic mainContainer">
                 <button
                     className="bg-transparent
                  hover:bg-blue-700
