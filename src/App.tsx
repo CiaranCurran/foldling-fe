@@ -71,7 +71,7 @@ function App() {
             try {
                 setLoading(true)
                 const result = await axios.post(
-                    'https://api-free.deepl.com/v2/translate',
+                    'https://api.deepl.com/v2/translate',
                     null,
                     {
                         params: {
