@@ -75,7 +75,7 @@ function App() {
                     null,
                     {
                         params: {
-                            auth_key: 'd65502a3-a162-2e57-bbbf-8fbca4afa2d8',
+                            auth_key: '16d16242-7ef7-d1ad-6c54-177b128d3ab3',
                             text: selection.word,
                             target_lang: 'EN',
                             source_lang: LANG,
