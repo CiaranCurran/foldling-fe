@@ -39,6 +39,10 @@ const TextReader = ({ setTime, highlight, currentTime, setSelection }: any) => {
     if (user_var === 'Ciaran2') {
         user = 'Ciaran'
     }
+    if (user_var === 'Ciaran_SP2') {
+        user = 'Ciaran_SP'
+    }
+
     let text: any
     if (user_var === 'Ciaran') {
         text = text_por
