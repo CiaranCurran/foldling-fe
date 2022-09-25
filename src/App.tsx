@@ -63,6 +63,8 @@ function App() {
         LANG = 'SK'
     } else if (user === 'Ciaran_SP') {
         LANG = 'ES'
+    } else if (user === 'Ciaran_SP2') {
+        LANG = 'ES'
     }
 
     // Generates a translation for the latest selection
@@ -143,6 +145,7 @@ function App() {
             user === 'Ciaran' ||
             user === 'Ciaran2' ||
             user === 'Ciaran_SP' ||
+            user === 'Ciaran_SP2' ||
             user === 'Aidan'
         ) {
             setLoggedIn(true)
