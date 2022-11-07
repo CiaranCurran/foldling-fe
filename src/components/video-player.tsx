@@ -1,6 +1,5 @@
 import YouTube from 'react-youtube'
 import { useContext, useEffect, useRef, useState } from 'react'
-import { YOUTUBE_ID } from '../constants'
 import { WordContext } from '../App'
 
 const TIME_UPDATE_RATE = 400 // time in milliseconds between each time update, too small and the scroll will lag.
@@ -23,7 +22,6 @@ const VideoPlayer = ({ time, setCurrentTime }: any) => {
         false
     ) as any
     const { user } = useContext(WordContext)
-    console.log(YOUTUBE_ID)
 
     useEffect(() => {
         window.addEventListener('keydown', (e) => {
@@ -82,7 +80,7 @@ const VideoPlayer = ({ time, setCurrentTime }: any) => {
     if (user === 'Ciaran') {
         youtubeID = 'DA--T_3T3mI'
     } else if (user === 'JJ') {
-        youtubeID = YOUTUBE_ID
+        youtubeID = 'i9-M-Ys-9rc'
     } else if (user === 'Mark') {
         youtubeID = 'oBQVXgQJh9E'
     } else if (user === 'Ciaran2') {
